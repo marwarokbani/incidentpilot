@@ -1,0 +1,12 @@
+2026-11-10T14:18:02Z INFO  orders-api   GET /orders/4512 200 in 45ms
+2026-11-10T14:19:40Z WARN  orders-api   slow query on products (610ms)
+
+2026-11-10T14:26:11Z INFO  orders-api   GET /orders/7781 200 in 52ms
+2026-11-10T14:30:00Z INFO  deployer     deployed payments-api commit 4c5d6e7 "chore: bump pydantic 2.9.1 -> 2.9.2"
+2026-11-10T14:33:20Z WARN  orders-api   DB pool usage high (9/10 connections in use)
+2026-11-10T14:35:02Z ERROR orders-api   TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=5)
+2026-11-10T14:35:03Z ERROR gateway      upstream orders-api returned 500
+2026-11-10T14:36:15Z ERROR orders-api   TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=8)
+2026-11-10T14:36:16Z ERROR gateway      upstream orders-api returned 500
+2026-11-10T14:37:40Z INFO  payments-api POST /payments 201 in 88ms
+2026-11-10T14:38:05Z ERROR orders-api   TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=14)
