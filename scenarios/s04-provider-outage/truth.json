@@ -1,0 +1,10 @@
+{
+  "id": "s04-provider-outage",
+  "category": "dependency_outage",
+  "culprit_commit": null,
+  "root_cause": "Le fournisseur de paiement externe api.paycorp.example répond 503 depuis 14:32. Aucun changement de notre côté n'est en cause.",
+  "red_herrings": [
+    "commit 7e8f9a0 sur payments-api 10 minutes avant, qui ne touche que la doc",
+    "erreurs 502 du gateway"
+  ]
+}

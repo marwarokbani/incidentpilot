@@ -1,0 +1,1027 @@
+{"ts": "2026-11-10T14:00:07Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:00:19Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 105ms"}
+{"ts": "2026-11-10T14:00:22Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 132ms"}
+{"ts": "2026-11-10T14:00:26Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/8530 200 in 76ms"}
+{"ts": "2026-11-10T14:00:31Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/2033 200 in 165ms"}
+{"ts": "2026-11-10T14:00:31Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/7219 200 in 140ms"}
+{"ts": "2026-11-10T14:00:33Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/7915 200 in 75ms"}
+{"ts": "2026-11-10T14:00:44Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/8090 200 in 119ms"}
+{"ts": "2026-11-10T14:00:56Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/1365 200 in 27ms"}
+{"ts": "2026-11-10T14:00:57Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/4748 200 in 88ms"}
+{"ts": "2026-11-10T14:01:00Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (508ms)"}
+{"ts": "2026-11-10T14:01:02Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:01:23Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 123ms"}
+{"ts": "2026-11-10T14:01:29Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:01:30Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/7444 200 in 149ms"}
+{"ts": "2026-11-10T14:01:31Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (758ms)"}
+{"ts": "2026-11-10T14:01:32Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (618ms)"}
+{"ts": "2026-11-10T14:01:33Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 175ms"}
+{"ts": "2026-11-10T14:01:35Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 27ms"}
+{"ts": "2026-11-10T14:01:41Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (657ms)"}
+{"ts": "2026-11-10T14:01:42Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:01:46Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (689ms)"}
+{"ts": "2026-11-10T14:01:49Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/2416 200 in 115ms"}
+{"ts": "2026-11-10T14:01:49Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/9228 200 in 63ms"}
+{"ts": "2026-11-10T14:01:55Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (528ms)"}
+{"ts": "2026-11-10T14:02:02Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 77ms"}
+{"ts": "2026-11-10T14:02:03Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (837ms)"}
+{"ts": "2026-11-10T14:02:19Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/3059 200 in 96ms"}
+{"ts": "2026-11-10T14:02:21Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (659ms)"}
+{"ts": "2026-11-10T14:02:22Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 88ms"}
+{"ts": "2026-11-10T14:02:25Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/8386 200 in 152ms"}
+{"ts": "2026-11-10T14:02:31Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:02:33Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:02:34Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (860ms)"}
+{"ts": "2026-11-10T14:02:52Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (810ms)"}
+{"ts": "2026-11-10T14:02:57Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:03:17Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 54ms"}
+{"ts": "2026-11-10T14:03:18Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (840ms)"}
+{"ts": "2026-11-10T14:03:24Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/8550 200 in 165ms"}
+{"ts": "2026-11-10T14:03:26Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 99ms"}
+{"ts": "2026-11-10T14:03:37Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/3136 200 in 84ms"}
+{"ts": "2026-11-10T14:03:37Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (605ms)"}
+{"ts": "2026-11-10T14:03:51Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:03:57Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (666ms)"}
+{"ts": "2026-11-10T14:03:58Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:04:05Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/4844 200 in 156ms"}
+{"ts": "2026-11-10T14:04:07Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:04:08Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (620ms)"}
+{"ts": "2026-11-10T14:04:10Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (800ms)"}
+{"ts": "2026-11-10T14:04:10Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 135ms"}
+{"ts": "2026-11-10T14:04:17Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 63ms"}
+{"ts": "2026-11-10T14:04:21Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:04:26Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/2708 200 in 161ms"}
+{"ts": "2026-11-10T14:04:29Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/6978 200 in 88ms"}
+{"ts": "2026-11-10T14:04:35Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:04:36Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 170ms"}
+{"ts": "2026-11-10T14:04:39Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/1749 200 in 47ms"}
+{"ts": "2026-11-10T14:04:41Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 142ms"}
+{"ts": "2026-11-10T14:04:46Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:04:52Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/2502 200 in 23ms"}
+{"ts": "2026-11-10T14:05:04Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (660ms)"}
+{"ts": "2026-11-10T14:05:05Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (545ms)"}
+{"ts": "2026-11-10T14:05:11Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 39ms"}
+{"ts": "2026-11-10T14:05:13Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:05:15Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 158ms"}
+{"ts": "2026-11-10T14:05:15Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:05:15Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/9916 200 in 45ms"}
+{"ts": "2026-11-10T14:05:16Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:05:17Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/4993 200 in 25ms"}
+{"ts": "2026-11-10T14:05:18Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/2230 200 in 38ms"}
+{"ts": "2026-11-10T14:05:19Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (616ms)"}
+{"ts": "2026-11-10T14:05:32Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/8681 200 in 146ms"}
+{"ts": "2026-11-10T14:05:45Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/6239 200 in 56ms"}
+{"ts": "2026-11-10T14:06:14Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/7571 200 in 121ms"}
+{"ts": "2026-11-10T14:06:16Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 60ms"}
+{"ts": "2026-11-10T14:06:21Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (864ms)"}
+{"ts": "2026-11-10T14:06:27Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:06:31Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:06:32Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:06:34Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:06:37Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:06:49Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/4387 200 in 52ms"}
+{"ts": "2026-11-10T14:06:50Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/5226 200 in 63ms"}
+{"ts": "2026-11-10T14:06:53Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (505ms)"}
+{"ts": "2026-11-10T14:06:53Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:07:10Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:07:11Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (792ms)"}
+{"ts": "2026-11-10T14:07:12Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/5066 200 in 91ms"}
+{"ts": "2026-11-10T14:07:13Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (818ms)"}
+{"ts": "2026-11-10T14:07:28Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/2371 200 in 88ms"}
+{"ts": "2026-11-10T14:07:31Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/7991 200 in 84ms"}
+{"ts": "2026-11-10T14:07:34Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 120ms"}
+{"ts": "2026-11-10T14:07:38Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (859ms)"}
+{"ts": "2026-11-10T14:07:40Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:07:42Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/9749 200 in 130ms"}
+{"ts": "2026-11-10T14:07:54Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:07:58Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 117ms"}
+{"ts": "2026-11-10T14:08:13Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (792ms)"}
+{"ts": "2026-11-10T14:08:21Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (776ms)"}
+{"ts": "2026-11-10T14:08:24Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (557ms)"}
+{"ts": "2026-11-10T14:08:31Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:08:33Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:08:34Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 72ms"}
+{"ts": "2026-11-10T14:08:34Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/1395 200 in 47ms"}
+{"ts": "2026-11-10T14:08:36Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:08:44Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:08:45Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (563ms)"}
+{"ts": "2026-11-10T14:08:48Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:08:53Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 168ms"}
+{"ts": "2026-11-10T14:08:53Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:08:55Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:08:59Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 162ms"}
+{"ts": "2026-11-10T14:09:04Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:09:04Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:09:13Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:09:17Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/3779 200 in 144ms"}
+{"ts": "2026-11-10T14:09:22Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/2202 200 in 65ms"}
+{"ts": "2026-11-10T14:09:29Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 125ms"}
+{"ts": "2026-11-10T14:09:40Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:09:44Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 133ms"}
+{"ts": "2026-11-10T14:09:50Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (824ms)"}
+{"ts": "2026-11-10T14:10:02Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 102ms"}
+{"ts": "2026-11-10T14:10:10Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/9380 200 in 139ms"}
+{"ts": "2026-11-10T14:10:14Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/6005 200 in 72ms"}
+{"ts": "2026-11-10T14:10:15Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (658ms)"}
+{"ts": "2026-11-10T14:10:21Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (870ms)"}
+{"ts": "2026-11-10T14:10:25Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 162ms"}
+{"ts": "2026-11-10T14:10:29Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:10:43Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 172ms"}
+{"ts": "2026-11-10T14:10:54Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 104ms"}
+{"ts": "2026-11-10T14:10:55Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:10:55Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 88ms"}
+{"ts": "2026-11-10T14:10:57Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 61ms"}
+{"ts": "2026-11-10T14:10:59Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (662ms)"}
+{"ts": "2026-11-10T14:11:13Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (780ms)"}
+{"ts": "2026-11-10T14:11:14Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 146ms"}
+{"ts": "2026-11-10T14:11:25Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 50ms"}
+{"ts": "2026-11-10T14:11:27Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/5482 200 in 30ms"}
+{"ts": "2026-11-10T14:11:33Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/1581 200 in 23ms"}
+{"ts": "2026-11-10T14:11:36Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/7345 200 in 23ms"}
+{"ts": "2026-11-10T14:11:41Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (540ms)"}
+{"ts": "2026-11-10T14:11:47Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 68ms"}
+{"ts": "2026-11-10T14:11:50Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 122ms"}
+{"ts": "2026-11-10T14:11:54Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/1757 200 in 40ms"}
+{"ts": "2026-11-10T14:11:58Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/6408 200 in 86ms"}
+{"ts": "2026-11-10T14:11:58Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:12:05Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:12:16Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:12:16Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/5376 200 in 37ms"}
+{"ts": "2026-11-10T14:12:20Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/9210 200 in 140ms"}
+{"ts": "2026-11-10T14:12:22Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 82ms"}
+{"ts": "2026-11-10T14:12:35Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:12:42Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (516ms)"}
+{"ts": "2026-11-10T14:12:54Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 44ms"}
+{"ts": "2026-11-10T14:12:55Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/2405 200 in 103ms"}
+{"ts": "2026-11-10T14:12:58Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (864ms)"}
+{"ts": "2026-11-10T14:12:58Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/1865 200 in 31ms"}
+{"ts": "2026-11-10T14:13:16Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 86ms"}
+{"ts": "2026-11-10T14:13:26Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:13:32Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:13:33Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (689ms)"}
+{"ts": "2026-11-10T14:13:36Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 44ms"}
+{"ts": "2026-11-10T14:13:41Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 169ms"}
+{"ts": "2026-11-10T14:13:53Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (548ms)"}
+{"ts": "2026-11-10T14:13:57Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/9520 200 in 154ms"}
+{"ts": "2026-11-10T14:14:01Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 138ms"}
+{"ts": "2026-11-10T14:14:01Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (761ms)"}
+{"ts": "2026-11-10T14:14:08Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/7234 200 in 113ms"}
+{"ts": "2026-11-10T14:14:13Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/5353 200 in 159ms"}
+{"ts": "2026-11-10T14:14:14Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:14:25Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:14:30Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:14:33Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/5467 200 in 110ms"}
+{"ts": "2026-11-10T14:14:50Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:14:50Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:14:51Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/7735 200 in 67ms"}
+{"ts": "2026-11-10T14:14:54Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/9624 200 in 37ms"}
+{"ts": "2026-11-10T14:14:58Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 84ms"}
+{"ts": "2026-11-10T14:15:02Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (796ms)"}
+{"ts": "2026-11-10T14:15:04Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (763ms)"}
+{"ts": "2026-11-10T14:15:12Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (631ms)"}
+{"ts": "2026-11-10T14:15:23Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/1157 200 in 84ms"}
+{"ts": "2026-11-10T14:15:24Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:15:26Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 49ms"}
+{"ts": "2026-11-10T14:15:28Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:15:29Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:15:32Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:15:33Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:15:34Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:15:35Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 53ms"}
+{"ts": "2026-11-10T14:15:44Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:15:54Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:15:57Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/5612 200 in 122ms"}
+{"ts": "2026-11-10T14:16:05Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (866ms)"}
+{"ts": "2026-11-10T14:16:10Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 47ms"}
+{"ts": "2026-11-10T14:16:13Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (671ms)"}
+{"ts": "2026-11-10T14:16:16Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/7875 200 in 46ms"}
+{"ts": "2026-11-10T14:16:18Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (563ms)"}
+{"ts": "2026-11-10T14:16:22Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (773ms)"}
+{"ts": "2026-11-10T14:16:27Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/4070 200 in 122ms"}
+{"ts": "2026-11-10T14:16:38Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/9158 200 in 150ms"}
+{"ts": "2026-11-10T14:16:46Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 53ms"}
+{"ts": "2026-11-10T14:16:47Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:16:49Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (579ms)"}
+{"ts": "2026-11-10T14:16:50Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/3933 200 in 91ms"}
+{"ts": "2026-11-10T14:17:00Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/6522 200 in 74ms"}
+{"ts": "2026-11-10T14:17:07Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:17:12Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:17:15Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (688ms)"}
+{"ts": "2026-11-10T14:17:17Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:17:19Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (528ms)"}
+{"ts": "2026-11-10T14:17:26Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 163ms"}
+{"ts": "2026-11-10T14:17:34Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (878ms)"}
+{"ts": "2026-11-10T14:17:40Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (647ms)"}
+{"ts": "2026-11-10T14:17:40Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/5201 200 in 55ms"}
+{"ts": "2026-11-10T14:17:41Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 34ms"}
+{"ts": "2026-11-10T14:17:45Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:18:05Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 21ms"}
+{"ts": "2026-11-10T14:18:14Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/3819 200 in 164ms"}
+{"ts": "2026-11-10T14:18:17Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:18:21Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/7214 200 in 152ms"}
+{"ts": "2026-11-10T14:18:27Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:18:33Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:18:43Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 55ms"}
+{"ts": "2026-11-10T14:18:46Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/6685 200 in 30ms"}
+{"ts": "2026-11-10T14:19:08Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (634ms)"}
+{"ts": "2026-11-10T14:19:10Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:19:15Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 33ms"}
+{"ts": "2026-11-10T14:19:16Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/5497 200 in 131ms"}
+{"ts": "2026-11-10T14:19:17Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:19:23Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (571ms)"}
+{"ts": "2026-11-10T14:19:28Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:19:34Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (743ms)"}
+{"ts": "2026-11-10T14:19:34Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:19:35Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:19:43Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/5441 200 in 52ms"}
+{"ts": "2026-11-10T14:19:43Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 53ms"}
+{"ts": "2026-11-10T14:19:59Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:20:03Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 132ms"}
+{"ts": "2026-11-10T14:20:17Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 132ms"}
+{"ts": "2026-11-10T14:20:24Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 51ms"}
+{"ts": "2026-11-10T14:20:26Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:20:27Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:20:29Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/7217 200 in 53ms"}
+{"ts": "2026-11-10T14:20:30Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/8569 200 in 175ms"}
+{"ts": "2026-11-10T14:20:33Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 20ms"}
+{"ts": "2026-11-10T14:20:39Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/5153 200 in 108ms"}
+{"ts": "2026-11-10T14:20:48Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:20:51Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:20:55Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:20:57Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (588ms)"}
+{"ts": "2026-11-10T14:20:58Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/1134 200 in 174ms"}
+{"ts": "2026-11-10T14:21:04Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 65ms"}
+{"ts": "2026-11-10T14:21:09Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 166ms"}
+{"ts": "2026-11-10T14:21:16Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/3547 200 in 93ms"}
+{"ts": "2026-11-10T14:21:21Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 121ms"}
+{"ts": "2026-11-10T14:21:23Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (880ms)"}
+{"ts": "2026-11-10T14:21:27Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 120ms"}
+{"ts": "2026-11-10T14:21:34Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (725ms)"}
+{"ts": "2026-11-10T14:21:34Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 138ms"}
+{"ts": "2026-11-10T14:21:41Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/7793 200 in 116ms"}
+{"ts": "2026-11-10T14:21:42Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (892ms)"}
+{"ts": "2026-11-10T14:22:23Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:22:25Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 176ms"}
+{"ts": "2026-11-10T14:22:32Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/7155 200 in 64ms"}
+{"ts": "2026-11-10T14:22:35Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/1792 200 in 50ms"}
+{"ts": "2026-11-10T14:22:44Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 129ms"}
+{"ts": "2026-11-10T14:22:44Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 134ms"}
+{"ts": "2026-11-10T14:22:46Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:22:46Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/5579 200 in 86ms"}
+{"ts": "2026-11-10T14:22:49Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 142ms"}
+{"ts": "2026-11-10T14:22:49Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:23:01Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (861ms)"}
+{"ts": "2026-11-10T14:23:05Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:23:08Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 91ms"}
+{"ts": "2026-11-10T14:23:09Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/2352 200 in 70ms"}
+{"ts": "2026-11-10T14:23:10Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:23:14Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 121ms"}
+{"ts": "2026-11-10T14:23:22Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:23:24Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (882ms)"}
+{"ts": "2026-11-10T14:23:25Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (783ms)"}
+{"ts": "2026-11-10T14:23:34Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 77ms"}
+{"ts": "2026-11-10T14:23:42Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 117ms"}
+{"ts": "2026-11-10T14:23:48Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:23:59Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/3116 200 in 55ms"}
+{"ts": "2026-11-10T14:24:06Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (639ms)"}
+{"ts": "2026-11-10T14:24:17Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (619ms)"}
+{"ts": "2026-11-10T14:24:29Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/4058 200 in 53ms"}
+{"ts": "2026-11-10T14:24:34Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (839ms)"}
+{"ts": "2026-11-10T14:24:42Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 79ms"}
+{"ts": "2026-11-10T14:24:45Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/5171 200 in 168ms"}
+{"ts": "2026-11-10T14:24:47Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 48ms"}
+{"ts": "2026-11-10T14:24:52Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 74ms"}
+{"ts": "2026-11-10T14:24:58Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/9318 200 in 149ms"}
+{"ts": "2026-11-10T14:25:01Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (782ms)"}
+{"ts": "2026-11-10T14:25:04Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:25:05Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (533ms)"}
+{"ts": "2026-11-10T14:25:06Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/1605 200 in 49ms"}
+{"ts": "2026-11-10T14:25:14Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 118ms"}
+{"ts": "2026-11-10T14:25:29Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/2056 200 in 170ms"}
+{"ts": "2026-11-10T14:25:30Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:25:36Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/7801 200 in 112ms"}
+{"ts": "2026-11-10T14:25:40Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/7034 200 in 106ms"}
+{"ts": "2026-11-10T14:25:54Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/2263 200 in 44ms"}
+{"ts": "2026-11-10T14:25:54Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 133ms"}
+{"ts": "2026-11-10T14:25:54Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/2215 200 in 169ms"}
+{"ts": "2026-11-10T14:25:57Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:25:58Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:25:59Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/6480 200 in 134ms"}
+{"ts": "2026-11-10T14:26:02Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:26:11Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (861ms)"}
+{"ts": "2026-11-10T14:26:17Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/4847 200 in 87ms"}
+{"ts": "2026-11-10T14:26:21Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:26:35Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (635ms)"}
+{"ts": "2026-11-10T14:26:35Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:26:37Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 112ms"}
+{"ts": "2026-11-10T14:26:37Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 79ms"}
+{"ts": "2026-11-10T14:26:47Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (661ms)"}
+{"ts": "2026-11-10T14:26:50Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:26:52Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (760ms)"}
+{"ts": "2026-11-10T14:26:52Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (518ms)"}
+{"ts": "2026-11-10T14:26:57Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 166ms"}
+{"ts": "2026-11-10T14:27:00Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/6811 200 in 105ms"}
+{"ts": "2026-11-10T14:27:00Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/3693 200 in 28ms"}
+{"ts": "2026-11-10T14:27:12Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/6323 200 in 115ms"}
+{"ts": "2026-11-10T14:27:21Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:27:23Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/8509 200 in 88ms"}
+{"ts": "2026-11-10T14:27:31Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 73ms"}
+{"ts": "2026-11-10T14:27:31Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/8766 200 in 129ms"}
+{"ts": "2026-11-10T14:27:33Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/9590 200 in 41ms"}
+{"ts": "2026-11-10T14:27:59Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:28:10Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (809ms)"}
+{"ts": "2026-11-10T14:28:16Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/2822 200 in 33ms"}
+{"ts": "2026-11-10T14:28:20Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/6020 200 in 33ms"}
+{"ts": "2026-11-10T14:28:21Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/1814 200 in 99ms"}
+{"ts": "2026-11-10T14:28:24Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 73ms"}
+{"ts": "2026-11-10T14:28:24Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:28:26Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:28:26Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 154ms"}
+{"ts": "2026-11-10T14:28:32Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 137ms"}
+{"ts": "2026-11-10T14:28:38Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (753ms)"}
+{"ts": "2026-11-10T14:28:38Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (788ms)"}
+{"ts": "2026-11-10T14:28:38Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/5184 200 in 86ms"}
+{"ts": "2026-11-10T14:28:40Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 175ms"}
+{"ts": "2026-11-10T14:28:48Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 107ms"}
+{"ts": "2026-11-10T14:29:00Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/1344 200 in 128ms"}
+{"ts": "2026-11-10T14:29:07Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (827ms)"}
+{"ts": "2026-11-10T14:29:08Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 33ms"}
+{"ts": "2026-11-10T14:29:27Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:29:27Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:29:28Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:29:38Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:29:39Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/6556 200 in 157ms"}
+{"ts": "2026-11-10T14:29:43Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/2119 200 in 32ms"}
+{"ts": "2026-11-10T14:29:46Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 121ms"}
+{"ts": "2026-11-10T14:29:50Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:30:02Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (784ms)"}
+{"ts": "2026-11-10T14:30:12Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/4032 200 in 78ms"}
+{"ts": "2026-11-10T14:30:13Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 153ms"}
+{"ts": "2026-11-10T14:30:13Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 149ms"}
+{"ts": "2026-11-10T14:30:14Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 57ms"}
+{"ts": "2026-11-10T14:30:18Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 49ms"}
+{"ts": "2026-11-10T14:30:28Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/6641 200 in 93ms"}
+{"ts": "2026-11-10T14:30:36Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/7664 200 in 103ms"}
+{"ts": "2026-11-10T14:30:37Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:30:46Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 84ms"}
+{"ts": "2026-11-10T14:30:50Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/5983 200 in 65ms"}
+{"ts": "2026-11-10T14:31:05Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (847ms)"}
+{"ts": "2026-11-10T14:31:05Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 180ms"}
+{"ts": "2026-11-10T14:31:09Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (539ms)"}
+{"ts": "2026-11-10T14:31:10Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:31:10Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 165ms"}
+{"ts": "2026-11-10T14:31:10Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:31:26Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:31:29Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:31:30Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (661ms)"}
+{"ts": "2026-11-10T14:31:38Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 82ms"}
+{"ts": "2026-11-10T14:31:43Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 110ms"}
+{"ts": "2026-11-10T14:31:56Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (537ms)"}
+{"ts": "2026-11-10T14:32:02Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/8857 200 in 67ms"}
+{"ts": "2026-11-10T14:32:03Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 28ms"}
+{"ts": "2026-11-10T14:32:09Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:32:11Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/7136 200 in 148ms"}
+{"ts": "2026-11-10T14:32:12Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/4797 200 in 32ms"}
+{"ts": "2026-11-10T14:32:15Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (788ms)"}
+{"ts": "2026-11-10T14:32:32Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:32:32Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 168ms"}
+{"ts": "2026-11-10T14:32:55Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (659ms)"}
+{"ts": "2026-11-10T14:33:01Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:33:14Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 130ms"}
+{"ts": "2026-11-10T14:33:31Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 54ms"}
+{"ts": "2026-11-10T14:33:31Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:33:32Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/3220 200 in 109ms"}
+{"ts": "2026-11-10T14:33:38Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 74ms"}
+{"ts": "2026-11-10T14:33:39Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/1807 200 in 67ms"}
+{"ts": "2026-11-10T14:33:53Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:33:54Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (673ms)"}
+{"ts": "2026-11-10T14:33:56Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:33:56Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:34:03Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:34:05Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 82ms"}
+{"ts": "2026-11-10T14:34:09Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (702ms)"}
+{"ts": "2026-11-10T14:34:10Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:34:20Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 175ms"}
+{"ts": "2026-11-10T14:34:25Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (587ms)"}
+{"ts": "2026-11-10T14:34:27Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (559ms)"}
+{"ts": "2026-11-10T14:34:33Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:34:36Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (682ms)"}
+{"ts": "2026-11-10T14:34:36Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (765ms)"}
+{"ts": "2026-11-10T14:34:44Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 114ms"}
+{"ts": "2026-11-10T14:34:48Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (545ms)"}
+{"ts": "2026-11-10T14:35:05Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/6959 200 in 133ms"}
+{"ts": "2026-11-10T14:35:10Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:35:12Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=5)"}
+{"ts": "2026-11-10T14:35:13Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:35:18Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 177ms"}
+{"ts": "2026-11-10T14:35:21Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 100ms"}
+{"ts": "2026-11-10T14:35:23Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/3206 200 in 61ms"}
+{"ts": "2026-11-10T14:35:27Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/1105 200 in 59ms"}
+{"ts": "2026-11-10T14:35:28Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/4833 200 in 167ms"}
+{"ts": "2026-11-10T14:35:28Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (816ms)"}
+{"ts": "2026-11-10T14:35:29Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (606ms)"}
+{"ts": "2026-11-10T14:35:30Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (791ms)"}
+{"ts": "2026-11-10T14:35:34Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=5)"}
+{"ts": "2026-11-10T14:35:35Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 66ms"}
+{"ts": "2026-11-10T14:35:35Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:35:42Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=5)"}
+{"ts": "2026-11-10T14:35:43Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:35:49Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=5)"}
+{"ts": "2026-11-10T14:35:50Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:35:55Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=5)"}
+{"ts": "2026-11-10T14:35:56Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:36:06Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=8)"}
+{"ts": "2026-11-10T14:36:07Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:36:10Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/6427 200 in 139ms"}
+{"ts": "2026-11-10T14:36:10Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=8)"}
+{"ts": "2026-11-10T14:36:11Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:36:13Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=8)"}
+{"ts": "2026-11-10T14:36:14Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:36:17Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (527ms)"}
+{"ts": "2026-11-10T14:36:17Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=8)"}
+{"ts": "2026-11-10T14:36:18Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (750ms)"}
+{"ts": "2026-11-10T14:36:18Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:36:28Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 44ms"}
+{"ts": "2026-11-10T14:36:28Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:36:32Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (814ms)"}
+{"ts": "2026-11-10T14:36:35Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/5477 200 in 64ms"}
+{"ts": "2026-11-10T14:36:37Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/8782 200 in 66ms"}
+{"ts": "2026-11-10T14:36:39Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 101ms"}
+{"ts": "2026-11-10T14:37:00Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (643ms)"}
+{"ts": "2026-11-10T14:37:02Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=11)"}
+{"ts": "2026-11-10T14:37:03Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:37:06Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 75ms"}
+{"ts": "2026-11-10T14:37:09Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (526ms)"}
+{"ts": "2026-11-10T14:37:10Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=11)"}
+{"ts": "2026-11-10T14:37:11Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:37:11Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:37:14Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=11)"}
+{"ts": "2026-11-10T14:37:14Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=11)"}
+{"ts": "2026-11-10T14:37:15Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:37:15Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:37:20Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:37:20Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=11)"}
+{"ts": "2026-11-10T14:37:21Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:37:24Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=11)"}
+{"ts": "2026-11-10T14:37:25Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:37:29Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 145ms"}
+{"ts": "2026-11-10T14:37:35Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:37:38Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=11)"}
+{"ts": "2026-11-10T14:37:39Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:37:41Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:37:41Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=11)"}
+{"ts": "2026-11-10T14:37:41Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=11)"}
+{"ts": "2026-11-10T14:37:42Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:37:42Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:37:52Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (748ms)"}
+{"ts": "2026-11-10T14:37:54Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 75ms"}
+{"ts": "2026-11-10T14:37:57Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:38:02Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=14)"}
+{"ts": "2026-11-10T14:38:03Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:38:13Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=14)"}
+{"ts": "2026-11-10T14:38:14Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:38:16Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=14)"}
+{"ts": "2026-11-10T14:38:16Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=14)"}
+{"ts": "2026-11-10T14:38:17Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:38:17Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:38:23Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:38:24Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:38:24Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=14)"}
+{"ts": "2026-11-10T14:38:25Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:38:27Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (573ms)"}
+{"ts": "2026-11-10T14:38:34Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/7682 200 in 43ms"}
+{"ts": "2026-11-10T14:38:38Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:38:40Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=14)"}
+{"ts": "2026-11-10T14:38:41Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:38:42Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (857ms)"}
+{"ts": "2026-11-10T14:38:51Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/2568 200 in 95ms"}
+{"ts": "2026-11-10T14:38:58Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:39:01Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 105ms"}
+{"ts": "2026-11-10T14:39:01Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (696ms)"}
+{"ts": "2026-11-10T14:39:09Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=17)"}
+{"ts": "2026-11-10T14:39:10Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:39:13Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 138ms"}
+{"ts": "2026-11-10T14:39:17Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 73ms"}
+{"ts": "2026-11-10T14:39:27Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 57ms"}
+{"ts": "2026-11-10T14:39:31Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=17)"}
+{"ts": "2026-11-10T14:39:32Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:39:34Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 73ms"}
+{"ts": "2026-11-10T14:39:36Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (568ms)"}
+{"ts": "2026-11-10T14:39:37Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (620ms)"}
+{"ts": "2026-11-10T14:39:42Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (728ms)"}
+{"ts": "2026-11-10T14:39:46Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=17)"}
+{"ts": "2026-11-10T14:39:47Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:39:52Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:39:55Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/2177 200 in 68ms"}
+{"ts": "2026-11-10T14:39:55Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=17)"}
+{"ts": "2026-11-10T14:39:56Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:39:59Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:40:02Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/3823 200 in 33ms"}
+{"ts": "2026-11-10T14:40:05Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (884ms)"}
+{"ts": "2026-11-10T14:40:12Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 131ms"}
+{"ts": "2026-11-10T14:40:15Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/4899 200 in 57ms"}
+{"ts": "2026-11-10T14:40:19Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=20)"}
+{"ts": "2026-11-10T14:40:20Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:40:22Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=20)"}
+{"ts": "2026-11-10T14:40:23Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/8155 200 in 51ms"}
+{"ts": "2026-11-10T14:40:23Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=20)"}
+{"ts": "2026-11-10T14:40:23Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:40:24Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:40:25Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=20)"}
+{"ts": "2026-11-10T14:40:26Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:40:28Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:40:34Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 159ms"}
+{"ts": "2026-11-10T14:40:36Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (815ms)"}
+{"ts": "2026-11-10T14:40:37Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:40:40Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (512ms)"}
+{"ts": "2026-11-10T14:40:44Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 91ms"}
+{"ts": "2026-11-10T14:40:44Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 32ms"}
+{"ts": "2026-11-10T14:40:49Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=20)"}
+{"ts": "2026-11-10T14:40:50Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:40:53Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/1984 200 in 113ms"}
+{"ts": "2026-11-10T14:40:54Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=20)"}
+{"ts": "2026-11-10T14:40:54Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=20)"}
+{"ts": "2026-11-10T14:40:55Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:40:55Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:40:58Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 120ms"}
+{"ts": "2026-11-10T14:41:00Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/2820 200 in 70ms"}
+{"ts": "2026-11-10T14:41:12Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=23)"}
+{"ts": "2026-11-10T14:41:13Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:41:16Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=23)"}
+{"ts": "2026-11-10T14:41:17Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=23)"}
+{"ts": "2026-11-10T14:41:17Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:41:18Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=23)"}
+{"ts": "2026-11-10T14:41:18Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:41:19Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:41:20Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 132ms"}
+{"ts": "2026-11-10T14:41:22Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/7050 200 in 73ms"}
+{"ts": "2026-11-10T14:41:25Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:41:28Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (641ms)"}
+{"ts": "2026-11-10T14:41:28Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (896ms)"}
+{"ts": "2026-11-10T14:41:30Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (850ms)"}
+{"ts": "2026-11-10T14:41:30Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=23)"}
+{"ts": "2026-11-10T14:41:31Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:41:31Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:41:47Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 34ms"}
+{"ts": "2026-11-10T14:41:51Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=23)"}
+{"ts": "2026-11-10T14:41:52Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:41:54Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=23)"}
+{"ts": "2026-11-10T14:41:55Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:41:58Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=23)"}
+{"ts": "2026-11-10T14:41:59Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:42:03Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 170ms"}
+{"ts": "2026-11-10T14:42:03Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=26)"}
+{"ts": "2026-11-10T14:42:04Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:42:04Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=26)"}
+{"ts": "2026-11-10T14:42:05Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:42:08Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:42:08Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:42:09Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=26)"}
+{"ts": "2026-11-10T14:42:09Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=26)"}
+{"ts": "2026-11-10T14:42:10Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:42:10Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:42:22Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=26)"}
+{"ts": "2026-11-10T14:42:23Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:42:24Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=26)"}
+{"ts": "2026-11-10T14:42:25Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:42:28Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/3260 200 in 148ms"}
+{"ts": "2026-11-10T14:42:31Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 98ms"}
+{"ts": "2026-11-10T14:42:33Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (546ms)"}
+{"ts": "2026-11-10T14:42:37Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=26)"}
+{"ts": "2026-11-10T14:42:38Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:42:39Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:42:43Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/7577 200 in 25ms"}
+{"ts": "2026-11-10T14:42:46Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:42:48Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:42:50Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=26)"}
+{"ts": "2026-11-10T14:42:51Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:42:55Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 61ms"}
+{"ts": "2026-11-10T14:43:04Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 54ms"}
+{"ts": "2026-11-10T14:43:04Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=29)"}
+{"ts": "2026-11-10T14:43:05Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:43:06Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (579ms)"}
+{"ts": "2026-11-10T14:43:11Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/7912 200 in 141ms"}
+{"ts": "2026-11-10T14:43:13Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=29)"}
+{"ts": "2026-11-10T14:43:14Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:43:16Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:43:17Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (853ms)"}
+{"ts": "2026-11-10T14:43:22Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:43:29Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=29)"}
+{"ts": "2026-11-10T14:43:30Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:43:31Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=29)"}
+{"ts": "2026-11-10T14:43:32Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:43:39Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (511ms)"}
+{"ts": "2026-11-10T14:43:49Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=29)"}
+{"ts": "2026-11-10T14:43:50Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:43:51Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 57ms"}
+{"ts": "2026-11-10T14:43:52Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:43:55Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=29)"}
+{"ts": "2026-11-10T14:43:56Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:44:00Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=32)"}
+{"ts": "2026-11-10T14:44:01Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:44:02Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=32)"}
+{"ts": "2026-11-10T14:44:03Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:44:08Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/8488 200 in 117ms"}
+{"ts": "2026-11-10T14:44:08Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (572ms)"}
+{"ts": "2026-11-10T14:44:12Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (651ms)"}
+{"ts": "2026-11-10T14:44:16Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (745ms)"}
+{"ts": "2026-11-10T14:44:17Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=32)"}
+{"ts": "2026-11-10T14:44:18Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:44:21Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=32)"}
+{"ts": "2026-11-10T14:44:22Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:44:31Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 105ms"}
+{"ts": "2026-11-10T14:44:35Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 47ms"}
+{"ts": "2026-11-10T14:44:35Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/5254 200 in 157ms"}
+{"ts": "2026-11-10T14:44:40Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (815ms)"}
+{"ts": "2026-11-10T14:44:42Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (853ms)"}
+{"ts": "2026-11-10T14:44:45Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:44:48Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:44:53Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (704ms)"}
+{"ts": "2026-11-10T14:44:53Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=32)"}
+{"ts": "2026-11-10T14:44:53Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=32)"}
+{"ts": "2026-11-10T14:44:54Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:44:54Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:45:01Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (708ms)"}
+{"ts": "2026-11-10T14:45:09Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 143ms"}
+{"ts": "2026-11-10T14:45:12Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (632ms)"}
+{"ts": "2026-11-10T14:45:19Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 79ms"}
+{"ts": "2026-11-10T14:45:20Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 63ms"}
+{"ts": "2026-11-10T14:45:22Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/5810 200 in 41ms"}
+{"ts": "2026-11-10T14:45:22Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:45:26Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/1461 200 in 150ms"}
+{"ts": "2026-11-10T14:45:27Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=35)"}
+{"ts": "2026-11-10T14:45:27Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=35)"}
+{"ts": "2026-11-10T14:45:28Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:45:28Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:45:31Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (896ms)"}
+{"ts": "2026-11-10T14:45:31Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=35)"}
+{"ts": "2026-11-10T14:45:32Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:45:37Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:45:39Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=35)"}
+{"ts": "2026-11-10T14:45:40Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:45:43Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=35)"}
+{"ts": "2026-11-10T14:45:44Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:45:50Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=35)"}
+{"ts": "2026-11-10T14:45:51Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:45:52Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=35)"}
+{"ts": "2026-11-10T14:45:53Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:45:54Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:45:55Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=35)"}
+{"ts": "2026-11-10T14:45:56Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:45:57Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/5093 200 in 41ms"}
+{"ts": "2026-11-10T14:45:58Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=35)"}
+{"ts": "2026-11-10T14:45:59Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:46:03Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:46:04Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 22ms"}
+{"ts": "2026-11-10T14:46:12Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=38)"}
+{"ts": "2026-11-10T14:46:13Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (519ms)"}
+{"ts": "2026-11-10T14:46:13Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:46:15Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/2797 200 in 158ms"}
+{"ts": "2026-11-10T14:46:21Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (833ms)"}
+{"ts": "2026-11-10T14:46:23Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=38)"}
+{"ts": "2026-11-10T14:46:24Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:46:29Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 162ms"}
+{"ts": "2026-11-10T14:46:31Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=38)"}
+{"ts": "2026-11-10T14:46:32Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:46:33Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/2154 200 in 37ms"}
+{"ts": "2026-11-10T14:46:38Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=38)"}
+{"ts": "2026-11-10T14:46:39Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:46:46Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 48ms"}
+{"ts": "2026-11-10T14:46:46Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=38)"}
+{"ts": "2026-11-10T14:46:47Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:46:48Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=38)"}
+{"ts": "2026-11-10T14:46:48Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=38)"}
+{"ts": "2026-11-10T14:46:49Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:46:49Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:46:58Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (661ms)"}
+{"ts": "2026-11-10T14:46:58Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:47:01Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/4669 200 in 22ms"}
+{"ts": "2026-11-10T14:47:02Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (663ms)"}
+{"ts": "2026-11-10T14:47:05Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=41)"}
+{"ts": "2026-11-10T14:47:06Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=41)"}
+{"ts": "2026-11-10T14:47:06Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:47:07Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:47:08Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (788ms)"}
+{"ts": "2026-11-10T14:47:10Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=41)"}
+{"ts": "2026-11-10T14:47:11Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:47:12Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/2873 200 in 97ms"}
+{"ts": "2026-11-10T14:47:12Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:47:13Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/5449 200 in 159ms"}
+{"ts": "2026-11-10T14:47:14Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 88ms"}
+{"ts": "2026-11-10T14:47:16Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:47:17Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (771ms)"}
+{"ts": "2026-11-10T14:47:18Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=41)"}
+{"ts": "2026-11-10T14:47:19Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:47:25Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=41)"}
+{"ts": "2026-11-10T14:47:26Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:47:27Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=41)"}
+{"ts": "2026-11-10T14:47:28Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/3222 200 in 69ms"}
+{"ts": "2026-11-10T14:47:28Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:47:34Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (784ms)"}
+{"ts": "2026-11-10T14:47:46Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=41)"}
+{"ts": "2026-11-10T14:47:47Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:47:51Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/8778 200 in 171ms"}
+{"ts": "2026-11-10T14:47:53Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 27ms"}
+{"ts": "2026-11-10T14:47:54Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/9616 200 in 73ms"}
+{"ts": "2026-11-10T14:47:55Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=41)"}
+{"ts": "2026-11-10T14:47:56Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:47:56Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=41)"}
+{"ts": "2026-11-10T14:47:57Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:47:59Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/7230 200 in 97ms"}
+{"ts": "2026-11-10T14:48:07Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=44)"}
+{"ts": "2026-11-10T14:48:08Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/7632 200 in 47ms"}
+{"ts": "2026-11-10T14:48:08Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:48:08Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:48:11Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/4749 200 in 164ms"}
+{"ts": "2026-11-10T14:48:21Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=44)"}
+{"ts": "2026-11-10T14:48:22Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (633ms)"}
+{"ts": "2026-11-10T14:48:22Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:48:23Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=44)"}
+{"ts": "2026-11-10T14:48:24Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:48:24Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=44)"}
+{"ts": "2026-11-10T14:48:25Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:48:26Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/6644 200 in 173ms"}
+{"ts": "2026-11-10T14:48:27Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:48:27Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=44)"}
+{"ts": "2026-11-10T14:48:28Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:48:32Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:48:36Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 130ms"}
+{"ts": "2026-11-10T14:48:36Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=44)"}
+{"ts": "2026-11-10T14:48:37Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:48:45Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/3473 200 in 23ms"}
+{"ts": "2026-11-10T14:48:45Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=44)"}
+{"ts": "2026-11-10T14:48:46Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:48:53Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=44)"}
+{"ts": "2026-11-10T14:48:54Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:48:56Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (526ms)"}
+{"ts": "2026-11-10T14:48:57Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (890ms)"}
+{"ts": "2026-11-10T14:48:58Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=44)"}
+{"ts": "2026-11-10T14:48:59Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:49:02Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:49:03Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=47)"}
+{"ts": "2026-11-10T14:49:04Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:49:07Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:49:07Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=47)"}
+{"ts": "2026-11-10T14:49:08Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:49:12Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=47)"}
+{"ts": "2026-11-10T14:49:13Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:49:14Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=47)"}
+{"ts": "2026-11-10T14:49:15Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:49:15Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:49:20Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/1406 200 in 86ms"}
+{"ts": "2026-11-10T14:49:27Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=47)"}
+{"ts": "2026-11-10T14:49:28Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:49:32Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (511ms)"}
+{"ts": "2026-11-10T14:49:36Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (788ms)"}
+{"ts": "2026-11-10T14:49:38Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=47)"}
+{"ts": "2026-11-10T14:49:39Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (775ms)"}
+{"ts": "2026-11-10T14:49:39Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:49:40Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (690ms)"}
+{"ts": "2026-11-10T14:49:46Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (866ms)"}
+{"ts": "2026-11-10T14:49:47Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:49:54Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=47)"}
+{"ts": "2026-11-10T14:49:55Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:50:01Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:50:06Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=50)"}
+{"ts": "2026-11-10T14:50:07Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:50:08Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=50)"}
+{"ts": "2026-11-10T14:50:09Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:50:10Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (863ms)"}
+{"ts": "2026-11-10T14:50:10Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/5134 200 in 170ms"}
+{"ts": "2026-11-10T14:50:11Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=50)"}
+{"ts": "2026-11-10T14:50:12Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:50:14Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (519ms)"}
+{"ts": "2026-11-10T14:50:14Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=50)"}
+{"ts": "2026-11-10T14:50:15Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:50:17Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (704ms)"}
+{"ts": "2026-11-10T14:50:17Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 150ms"}
+{"ts": "2026-11-10T14:50:22Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 161ms"}
+{"ts": "2026-11-10T14:50:24Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/4598 200 in 48ms"}
+{"ts": "2026-11-10T14:50:24Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=50)"}
+{"ts": "2026-11-10T14:50:25Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/3937 200 in 59ms"}
+{"ts": "2026-11-10T14:50:25Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:50:30Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=50)"}
+{"ts": "2026-11-10T14:50:31Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:50:34Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (502ms)"}
+{"ts": "2026-11-10T14:50:38Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/8174 200 in 152ms"}
+{"ts": "2026-11-10T14:50:39Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=50)"}
+{"ts": "2026-11-10T14:50:40Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:50:43Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=50)"}
+{"ts": "2026-11-10T14:50:44Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:50:44Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=50)"}
+{"ts": "2026-11-10T14:50:45Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:50:53Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (540ms)"}
+{"ts": "2026-11-10T14:50:53Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 127ms"}
+{"ts": "2026-11-10T14:50:55Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (677ms)"}
+{"ts": "2026-11-10T14:51:07Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (804ms)"}
+{"ts": "2026-11-10T14:51:18Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (834ms)"}
+{"ts": "2026-11-10T14:51:20Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=53)"}
+{"ts": "2026-11-10T14:51:21Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:51:27Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:51:28Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=53)"}
+{"ts": "2026-11-10T14:51:29Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:51:32Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=53)"}
+{"ts": "2026-11-10T14:51:33Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:51:34Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/3901 200 in 101ms"}
+{"ts": "2026-11-10T14:51:40Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/6761 200 in 104ms"}
+{"ts": "2026-11-10T14:51:41Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 96ms"}
+{"ts": "2026-11-10T14:51:49Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 142ms"}
+{"ts": "2026-11-10T14:51:49Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=53)"}
+{"ts": "2026-11-10T14:51:50Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (739ms)"}
+{"ts": "2026-11-10T14:51:50Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:51:51Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=53)"}
+{"ts": "2026-11-10T14:51:52Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:51:54Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 131ms"}
+{"ts": "2026-11-10T14:51:55Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=53)"}
+{"ts": "2026-11-10T14:51:56Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (526ms)"}
+{"ts": "2026-11-10T14:51:56Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:52:11Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (784ms)"}
+{"ts": "2026-11-10T14:52:11Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=56)"}
+{"ts": "2026-11-10T14:52:12Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:52:13Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 26ms"}
+{"ts": "2026-11-10T14:52:17Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 22ms"}
+{"ts": "2026-11-10T14:52:24Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=56)"}
+{"ts": "2026-11-10T14:52:25Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:52:27Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:52:29Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (553ms)"}
+{"ts": "2026-11-10T14:52:30Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=56)"}
+{"ts": "2026-11-10T14:52:31Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:52:34Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/6748 200 in 145ms"}
+{"ts": "2026-11-10T14:52:36Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=56)"}
+{"ts": "2026-11-10T14:52:37Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/8896 200 in 106ms"}
+{"ts": "2026-11-10T14:52:37Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/7423 200 in 100ms"}
+{"ts": "2026-11-10T14:52:37Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:52:40Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/6123 200 in 38ms"}
+{"ts": "2026-11-10T14:52:40Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=56)"}
+{"ts": "2026-11-10T14:52:41Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:52:44Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:52:47Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (716ms)"}
+{"ts": "2026-11-10T14:52:48Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/8194 200 in 24ms"}
+{"ts": "2026-11-10T14:52:48Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (505ms)"}
+{"ts": "2026-11-10T14:52:49Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:53:12Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=59)"}
+{"ts": "2026-11-10T14:53:13Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:53:15Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (577ms)"}
+{"ts": "2026-11-10T14:53:15Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=59)"}
+{"ts": "2026-11-10T14:53:16Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:53:24Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:53:31Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (633ms)"}
+{"ts": "2026-11-10T14:53:32Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=59)"}
+{"ts": "2026-11-10T14:53:33Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:53:33Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:53:36Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (732ms)"}
+{"ts": "2026-11-10T14:53:38Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/9246 200 in 52ms"}
+{"ts": "2026-11-10T14:53:43Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=59)"}
+{"ts": "2026-11-10T14:53:44Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:53:47Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:53:50Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 176ms"}
+{"ts": "2026-11-10T14:53:53Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/5185 200 in 51ms"}
+{"ts": "2026-11-10T14:53:58Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (776ms)"}
+{"ts": "2026-11-10T14:54:00Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=62)"}
+{"ts": "2026-11-10T14:54:00Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=62)"}
+{"ts": "2026-11-10T14:54:01Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:54:01Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:54:06Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:54:07Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=62)"}
+{"ts": "2026-11-10T14:54:08Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:54:17Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=62)"}
+{"ts": "2026-11-10T14:54:18Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:54:20Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 110ms"}
+{"ts": "2026-11-10T14:54:26Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:54:29Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:54:35Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=62)"}
+{"ts": "2026-11-10T14:54:36Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:54:46Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/2309 200 in 77ms"}
+{"ts": "2026-11-10T14:54:47Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/1010 200 in 42ms"}
+{"ts": "2026-11-10T14:54:50Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (525ms)"}
+{"ts": "2026-11-10T14:54:56Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (581ms)"}
+{"ts": "2026-11-10T14:55:03Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=65)"}
+{"ts": "2026-11-10T14:55:04Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:55:06Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (863ms)"}
+{"ts": "2026-11-10T14:55:07Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (819ms)"}
+{"ts": "2026-11-10T14:55:12Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:55:13Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=65)"}
+{"ts": "2026-11-10T14:55:14Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:55:16Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:55:16Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:55:18Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=65)"}
+{"ts": "2026-11-10T14:55:19Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:55:19Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=65)"}
+{"ts": "2026-11-10T14:55:20Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:55:26Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 78ms"}
+{"ts": "2026-11-10T14:55:32Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 77ms"}
+{"ts": "2026-11-10T14:55:39Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 104ms"}
+{"ts": "2026-11-10T14:55:48Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (571ms)"}
+{"ts": "2026-11-10T14:55:53Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=65)"}
+{"ts": "2026-11-10T14:55:53Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=65)"}
+{"ts": "2026-11-10T14:55:54Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:55:54Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:56:04Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 71ms"}
+{"ts": "2026-11-10T14:56:04Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=68)"}
+{"ts": "2026-11-10T14:56:05Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:56:06Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 152ms"}
+{"ts": "2026-11-10T14:56:06Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 114ms"}
+{"ts": "2026-11-10T14:56:08Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=68)"}
+{"ts": "2026-11-10T14:56:09Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=68)"}
+{"ts": "2026-11-10T14:56:09Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:56:10Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:56:10Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=68)"}
+{"ts": "2026-11-10T14:56:11Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:56:17Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=68)"}
+{"ts": "2026-11-10T14:56:18Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:56:23Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:56:26Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=68)"}
+{"ts": "2026-11-10T14:56:27Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:56:36Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:56:37Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=68)"}
+{"ts": "2026-11-10T14:56:38Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:56:43Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:56:43Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=68)"}
+{"ts": "2026-11-10T14:56:44Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:56:45Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=68)"}
+{"ts": "2026-11-10T14:56:46Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:56:52Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (558ms)"}
+{"ts": "2026-11-10T14:56:57Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (631ms)"}
+{"ts": "2026-11-10T14:56:58Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/1261 200 in 157ms"}
+{"ts": "2026-11-10T14:57:02Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:57:04Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=71)"}
+{"ts": "2026-11-10T14:57:05Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:57:06Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/5633 200 in 108ms"}
+{"ts": "2026-11-10T14:57:10Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=71)"}
+{"ts": "2026-11-10T14:57:11Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:57:12Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=71)"}
+{"ts": "2026-11-10T14:57:13Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:57:16Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:57:16Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 94ms"}
+{"ts": "2026-11-10T14:57:27Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 151ms"}
+{"ts": "2026-11-10T14:57:35Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:57:39Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 177ms"}
+{"ts": "2026-11-10T14:57:39Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (716ms)"}
+{"ts": "2026-11-10T14:57:48Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=71)"}
+{"ts": "2026-11-10T14:57:49Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:57:49Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 155ms"}
+{"ts": "2026-11-10T14:57:49Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:57:52Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:57:53Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 37ms"}
+{"ts": "2026-11-10T14:57:57Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=71)"}
+{"ts": "2026-11-10T14:57:58Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (550ms)"}
+{"ts": "2026-11-10T14:57:58Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:58:01Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:58:02Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:58:05Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/3760 200 in 146ms"}
+{"ts": "2026-11-10T14:58:11Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=74)"}
+{"ts": "2026-11-10T14:58:12Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:58:13Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (847ms)"}
+{"ts": "2026-11-10T14:58:13Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=74)"}
+{"ts": "2026-11-10T14:58:14Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:58:21Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/9378 200 in 168ms"}
+{"ts": "2026-11-10T14:58:22Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/6307 200 in 47ms"}
+{"ts": "2026-11-10T14:58:25Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=74)"}
+{"ts": "2026-11-10T14:58:26Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=74)"}
+{"ts": "2026-11-10T14:58:26Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:58:27Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:58:31Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=74)"}
+{"ts": "2026-11-10T14:58:32Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:58:33Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 123ms"}
+{"ts": "2026-11-10T14:58:34Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=74)"}
+{"ts": "2026-11-10T14:58:35Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:58:38Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (714ms)"}
+{"ts": "2026-11-10T14:58:40Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:58:44Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (887ms)"}
+{"ts": "2026-11-10T14:58:45Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (765ms)"}
+{"ts": "2026-11-10T14:58:49Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:58:50Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=74)"}
+{"ts": "2026-11-10T14:58:51Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:58:51Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:58:54Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=74)"}
+{"ts": "2026-11-10T14:58:55Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (754ms)"}
+{"ts": "2026-11-10T14:58:55Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:58:58Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (647ms)"}
+{"ts": "2026-11-10T14:59:00Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:59:03Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 155ms"}
+{"ts": "2026-11-10T14:59:04Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=77)"}
+{"ts": "2026-11-10T14:59:04Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=77)"}
+{"ts": "2026-11-10T14:59:05Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:59:05Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:59:09Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=77)"}
+{"ts": "2026-11-10T14:59:10Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:59:10Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:59:11Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (527ms)"}
+{"ts": "2026-11-10T14:59:13Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=77)"}
+{"ts": "2026-11-10T14:59:14Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 121ms"}
+{"ts": "2026-11-10T14:59:14Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:59:15Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=77)"}
+{"ts": "2026-11-10T14:59:16Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:59:31Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=77)"}
+{"ts": "2026-11-10T14:59:32Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:59:32Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:59:33Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (589ms)"}
+{"ts": "2026-11-10T14:59:42Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/4609 200 in 25ms"}
+{"ts": "2026-11-10T14:59:43Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/4420 200 in 160ms"}
+{"ts": "2026-11-10T14:59:43Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=77)"}
+{"ts": "2026-11-10T14:59:44Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:59:51Z", "service": "orders-api", "level": "ERROR", "msg": "TimeoutError: could not acquire DB connection within 5s (pool size=10, in use=10, waiting=77)"}
+{"ts": "2026-11-10T14:59:52Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:59:52Z", "service": "gateway", "level": "ERROR", "msg": "upstream orders-api returned 500"}
+{"ts": "2026-11-10T14:59:54Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:59:57Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}

@@ -1,0 +1,954 @@
+{"ts": "2026-11-10T14:00:02Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/5254 200 in 98ms"}
+{"ts": "2026-11-10T14:00:10Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (720ms)"}
+{"ts": "2026-11-10T14:00:17Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:00:19Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 86ms"}
+{"ts": "2026-11-10T14:00:26Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 166ms"}
+{"ts": "2026-11-10T14:00:30Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (869ms)"}
+{"ts": "2026-11-10T14:00:30Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 149ms"}
+{"ts": "2026-11-10T14:00:35Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (510ms)"}
+{"ts": "2026-11-10T14:00:42Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:00:53Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/5288 200 in 47ms"}
+{"ts": "2026-11-10T14:00:58Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/9972 200 in 42ms"}
+{"ts": "2026-11-10T14:01:01Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:01:17Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 45ms"}
+{"ts": "2026-11-10T14:01:22Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/8520 200 in 94ms"}
+{"ts": "2026-11-10T14:01:27Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:01:29Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/1153 200 in 104ms"}
+{"ts": "2026-11-10T14:01:38Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (628ms)"}
+{"ts": "2026-11-10T14:01:44Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (831ms)"}
+{"ts": "2026-11-10T14:01:55Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (578ms)"}
+{"ts": "2026-11-10T14:01:57Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 170ms"}
+{"ts": "2026-11-10T14:01:57Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 39ms"}
+{"ts": "2026-11-10T14:01:58Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (534ms)"}
+{"ts": "2026-11-10T14:01:59Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:02:02Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (710ms)"}
+{"ts": "2026-11-10T14:02:03Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/4406 200 in 128ms"}
+{"ts": "2026-11-10T14:02:07Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/5080 200 in 169ms"}
+{"ts": "2026-11-10T14:02:16Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/4075 200 in 147ms"}
+{"ts": "2026-11-10T14:02:21Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 43ms"}
+{"ts": "2026-11-10T14:02:26Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 82ms"}
+{"ts": "2026-11-10T14:02:28Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/5756 200 in 112ms"}
+{"ts": "2026-11-10T14:02:30Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 94ms"}
+{"ts": "2026-11-10T14:02:31Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/7602 200 in 165ms"}
+{"ts": "2026-11-10T14:02:34Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/3451 200 in 63ms"}
+{"ts": "2026-11-10T14:02:36Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:02:41Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 140ms"}
+{"ts": "2026-11-10T14:02:53Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (627ms)"}
+{"ts": "2026-11-10T14:03:00Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 75ms"}
+{"ts": "2026-11-10T14:03:01Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (769ms)"}
+{"ts": "2026-11-10T14:03:19Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/6940 200 in 30ms"}
+{"ts": "2026-11-10T14:03:24Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (778ms)"}
+{"ts": "2026-11-10T14:03:38Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:03:42Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 160ms"}
+{"ts": "2026-11-10T14:03:54Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/7425 200 in 106ms"}
+{"ts": "2026-11-10T14:03:54Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (619ms)"}
+{"ts": "2026-11-10T14:03:55Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/5414 200 in 52ms"}
+{"ts": "2026-11-10T14:03:56Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (702ms)"}
+{"ts": "2026-11-10T14:03:57Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (522ms)"}
+{"ts": "2026-11-10T14:03:59Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (882ms)"}
+{"ts": "2026-11-10T14:04:00Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 86ms"}
+{"ts": "2026-11-10T14:04:23Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 142ms"}
+{"ts": "2026-11-10T14:04:31Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/2981 200 in 99ms"}
+{"ts": "2026-11-10T14:04:32Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:04:33Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/8933 200 in 173ms"}
+{"ts": "2026-11-10T14:04:39Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/1027 200 in 180ms"}
+{"ts": "2026-11-10T14:04:40Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 126ms"}
+{"ts": "2026-11-10T14:04:49Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 125ms"}
+{"ts": "2026-11-10T14:04:55Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (667ms)"}
+{"ts": "2026-11-10T14:05:05Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (568ms)"}
+{"ts": "2026-11-10T14:05:12Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:05:19Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 104ms"}
+{"ts": "2026-11-10T14:05:19Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 80ms"}
+{"ts": "2026-11-10T14:05:28Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:05:39Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (759ms)"}
+{"ts": "2026-11-10T14:05:39Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (706ms)"}
+{"ts": "2026-11-10T14:05:41Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (539ms)"}
+{"ts": "2026-11-10T14:05:42Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (593ms)"}
+{"ts": "2026-11-10T14:05:43Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (588ms)"}
+{"ts": "2026-11-10T14:05:49Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:05:51Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/1329 200 in 174ms"}
+{"ts": "2026-11-10T14:05:56Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (852ms)"}
+{"ts": "2026-11-10T14:05:57Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (775ms)"}
+{"ts": "2026-11-10T14:05:57Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 170ms"}
+{"ts": "2026-11-10T14:06:01Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:06:03Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:06:04Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 174ms"}
+{"ts": "2026-11-10T14:06:09Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (757ms)"}
+{"ts": "2026-11-10T14:06:13Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/3580 200 in 82ms"}
+{"ts": "2026-11-10T14:06:38Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:06:40Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 43ms"}
+{"ts": "2026-11-10T14:06:41Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 93ms"}
+{"ts": "2026-11-10T14:06:44Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:06:50Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (583ms)"}
+{"ts": "2026-11-10T14:07:05Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 91ms"}
+{"ts": "2026-11-10T14:07:06Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 117ms"}
+{"ts": "2026-11-10T14:07:10Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (534ms)"}
+{"ts": "2026-11-10T14:07:27Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/3789 200 in 104ms"}
+{"ts": "2026-11-10T14:07:31Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/2335 200 in 110ms"}
+{"ts": "2026-11-10T14:07:33Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:07:35Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 49ms"}
+{"ts": "2026-11-10T14:07:38Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (656ms)"}
+{"ts": "2026-11-10T14:07:46Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (594ms)"}
+{"ts": "2026-11-10T14:07:50Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:07:55Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:07:57Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 180ms"}
+{"ts": "2026-11-10T14:08:01Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 131ms"}
+{"ts": "2026-11-10T14:08:04Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/6055 200 in 55ms"}
+{"ts": "2026-11-10T14:08:13Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 28ms"}
+{"ts": "2026-11-10T14:08:21Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/4290 200 in 29ms"}
+{"ts": "2026-11-10T14:08:31Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (588ms)"}
+{"ts": "2026-11-10T14:08:32Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:08:40Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (652ms)"}
+{"ts": "2026-11-10T14:08:40Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (669ms)"}
+{"ts": "2026-11-10T14:08:43Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:08:50Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:08:56Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/5492 200 in 179ms"}
+{"ts": "2026-11-10T14:09:00Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:09:03Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 113ms"}
+{"ts": "2026-11-10T14:09:15Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/4337 200 in 165ms"}
+{"ts": "2026-11-10T14:09:16Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 26ms"}
+{"ts": "2026-11-10T14:09:39Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 176ms"}
+{"ts": "2026-11-10T14:09:42Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/3470 200 in 168ms"}
+{"ts": "2026-11-10T14:09:45Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:09:47Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:09:55Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:09:56Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 74ms"}
+{"ts": "2026-11-10T14:10:11Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/1593 200 in 123ms"}
+{"ts": "2026-11-10T14:10:11Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:10:11Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/3643 200 in 143ms"}
+{"ts": "2026-11-10T14:10:12Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/1347 200 in 74ms"}
+{"ts": "2026-11-10T14:10:13Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (880ms)"}
+{"ts": "2026-11-10T14:10:19Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/9864 200 in 102ms"}
+{"ts": "2026-11-10T14:10:23Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:10:23Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 111ms"}
+{"ts": "2026-11-10T14:10:30Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (570ms)"}
+{"ts": "2026-11-10T14:10:34Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:10:39Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (571ms)"}
+{"ts": "2026-11-10T14:10:44Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (502ms)"}
+{"ts": "2026-11-10T14:10:46Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/6450 200 in 81ms"}
+{"ts": "2026-11-10T14:10:51Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 25ms"}
+{"ts": "2026-11-10T14:10:57Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/5841 200 in 104ms"}
+{"ts": "2026-11-10T14:11:10Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 50ms"}
+{"ts": "2026-11-10T14:11:31Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 159ms"}
+{"ts": "2026-11-10T14:11:33Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:11:34Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:11:34Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:11:34Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/3291 200 in 161ms"}
+{"ts": "2026-11-10T14:11:34Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 40ms"}
+{"ts": "2026-11-10T14:11:38Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 179ms"}
+{"ts": "2026-11-10T14:11:56Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (651ms)"}
+{"ts": "2026-11-10T14:11:59Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:12:00Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/5716 200 in 55ms"}
+{"ts": "2026-11-10T14:12:04Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (766ms)"}
+{"ts": "2026-11-10T14:12:04Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/9999 200 in 150ms"}
+{"ts": "2026-11-10T14:12:05Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/3817 200 in 70ms"}
+{"ts": "2026-11-10T14:12:12Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:12:27Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 155ms"}
+{"ts": "2026-11-10T14:12:32Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:12:40Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 153ms"}
+{"ts": "2026-11-10T14:13:15Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (774ms)"}
+{"ts": "2026-11-10T14:13:17Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:13:19Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/3891 200 in 69ms"}
+{"ts": "2026-11-10T14:13:21Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (633ms)"}
+{"ts": "2026-11-10T14:13:23Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 162ms"}
+{"ts": "2026-11-10T14:13:34Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:13:37Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/3794 200 in 135ms"}
+{"ts": "2026-11-10T14:13:38Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/2936 200 in 54ms"}
+{"ts": "2026-11-10T14:13:48Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:13:51Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 62ms"}
+{"ts": "2026-11-10T14:13:54Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:13:56Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/1092 200 in 153ms"}
+{"ts": "2026-11-10T14:14:00Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (528ms)"}
+{"ts": "2026-11-10T14:14:05Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 130ms"}
+{"ts": "2026-11-10T14:14:05Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/9601 200 in 119ms"}
+{"ts": "2026-11-10T14:14:06Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:14:07Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:14:28Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (565ms)"}
+{"ts": "2026-11-10T14:14:32Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (674ms)"}
+{"ts": "2026-11-10T14:14:35Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/8113 200 in 61ms"}
+{"ts": "2026-11-10T14:14:42Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (662ms)"}
+{"ts": "2026-11-10T14:14:46Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (823ms)"}
+{"ts": "2026-11-10T14:14:50Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:14:56Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:14:56Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:14:59Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:15:12Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:15:28Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (681ms)"}
+{"ts": "2026-11-10T14:15:31Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 164ms"}
+{"ts": "2026-11-10T14:15:34Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:15:47Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/6698 200 in 142ms"}
+{"ts": "2026-11-10T14:15:49Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 153ms"}
+{"ts": "2026-11-10T14:15:53Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/3030 200 in 156ms"}
+{"ts": "2026-11-10T14:15:56Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 131ms"}
+{"ts": "2026-11-10T14:16:08Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:16:09Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:16:16Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:16:17Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 103ms"}
+{"ts": "2026-11-10T14:16:32Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/4120 200 in 151ms"}
+{"ts": "2026-11-10T14:16:34Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/4682 200 in 82ms"}
+{"ts": "2026-11-10T14:16:36Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (635ms)"}
+{"ts": "2026-11-10T14:16:46Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/1584 200 in 36ms"}
+{"ts": "2026-11-10T14:16:54Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/3851 200 in 61ms"}
+{"ts": "2026-11-10T14:16:56Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/6532 200 in 34ms"}
+{"ts": "2026-11-10T14:17:10Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/3798 200 in 47ms"}
+{"ts": "2026-11-10T14:17:17Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:17:39Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 119ms"}
+{"ts": "2026-11-10T14:17:46Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (525ms)"}
+{"ts": "2026-11-10T14:17:54Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/2148 200 in 113ms"}
+{"ts": "2026-11-10T14:17:54Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (769ms)"}
+{"ts": "2026-11-10T14:17:56Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:17:58Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (762ms)"}
+{"ts": "2026-11-10T14:17:59Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 93ms"}
+{"ts": "2026-11-10T14:18:05Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/2168 200 in 158ms"}
+{"ts": "2026-11-10T14:18:06Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/9650 200 in 89ms"}
+{"ts": "2026-11-10T14:18:10Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 107ms"}
+{"ts": "2026-11-10T14:18:17Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/2539 200 in 137ms"}
+{"ts": "2026-11-10T14:18:23Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (720ms)"}
+{"ts": "2026-11-10T14:18:37Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:18:38Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (876ms)"}
+{"ts": "2026-11-10T14:18:39Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 139ms"}
+{"ts": "2026-11-10T14:18:46Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 105ms"}
+{"ts": "2026-11-10T14:19:09Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:19:12Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 180ms"}
+{"ts": "2026-11-10T14:19:20Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/8895 200 in 118ms"}
+{"ts": "2026-11-10T14:19:21Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:19:21Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (771ms)"}
+{"ts": "2026-11-10T14:19:32Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (581ms)"}
+{"ts": "2026-11-10T14:19:38Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/5403 200 in 41ms"}
+{"ts": "2026-11-10T14:19:44Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (804ms)"}
+{"ts": "2026-11-10T14:19:49Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/1596 200 in 73ms"}
+{"ts": "2026-11-10T14:20:08Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 26ms"}
+{"ts": "2026-11-10T14:20:25Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:20:26Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (526ms)"}
+{"ts": "2026-11-10T14:20:27Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/4293 200 in 91ms"}
+{"ts": "2026-11-10T14:20:39Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:20:45Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 124ms"}
+{"ts": "2026-11-10T14:20:50Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:20:57Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/2029 200 in 59ms"}
+{"ts": "2026-11-10T14:21:08Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/3732 200 in 147ms"}
+{"ts": "2026-11-10T14:21:10Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (876ms)"}
+{"ts": "2026-11-10T14:21:18Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 91ms"}
+{"ts": "2026-11-10T14:21:23Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (666ms)"}
+{"ts": "2026-11-10T14:21:24Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:21:24Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/7704 200 in 90ms"}
+{"ts": "2026-11-10T14:21:36Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:21:36Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (822ms)"}
+{"ts": "2026-11-10T14:21:40Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/8400 200 in 90ms"}
+{"ts": "2026-11-10T14:21:48Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (633ms)"}
+{"ts": "2026-11-10T14:21:54Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:21:55Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (550ms)"}
+{"ts": "2026-11-10T14:22:05Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:22:06Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (603ms)"}
+{"ts": "2026-11-10T14:22:14Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (800ms)"}
+{"ts": "2026-11-10T14:22:23Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:22:29Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/2286 200 in 55ms"}
+{"ts": "2026-11-10T14:22:29Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:22:38Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:22:38Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:22:41Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:22:42Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (784ms)"}
+{"ts": "2026-11-10T14:22:46Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 166ms"}
+{"ts": "2026-11-10T14:22:47Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 148ms"}
+{"ts": "2026-11-10T14:22:56Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 92ms"}
+{"ts": "2026-11-10T14:23:05Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:23:09Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:23:10Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:23:11Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/3256 200 in 54ms"}
+{"ts": "2026-11-10T14:23:19Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/3126 200 in 124ms"}
+{"ts": "2026-11-10T14:23:20Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:23:34Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/1944 200 in 99ms"}
+{"ts": "2026-11-10T14:23:40Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 44ms"}
+{"ts": "2026-11-10T14:23:42Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:23:47Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 89ms"}
+{"ts": "2026-11-10T14:23:59Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (854ms)"}
+{"ts": "2026-11-10T14:24:16Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (874ms)"}
+{"ts": "2026-11-10T14:24:17Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/9030 200 in 110ms"}
+{"ts": "2026-11-10T14:24:32Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (712ms)"}
+{"ts": "2026-11-10T14:24:33Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/9033 200 in 162ms"}
+{"ts": "2026-11-10T14:24:36Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (574ms)"}
+{"ts": "2026-11-10T14:24:45Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/9590 200 in 20ms"}
+{"ts": "2026-11-10T14:24:47Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 78ms"}
+{"ts": "2026-11-10T14:24:48Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 62ms"}
+{"ts": "2026-11-10T14:24:50Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (875ms)"}
+{"ts": "2026-11-10T14:24:54Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (775ms)"}
+{"ts": "2026-11-10T14:24:55Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:24:55Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 82ms"}
+{"ts": "2026-11-10T14:25:04Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 26ms"}
+{"ts": "2026-11-10T14:25:07Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 129ms"}
+{"ts": "2026-11-10T14:25:12Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:25:27Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/5890 200 in 74ms"}
+{"ts": "2026-11-10T14:25:31Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:25:33Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (838ms)"}
+{"ts": "2026-11-10T14:25:35Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/4841 200 in 86ms"}
+{"ts": "2026-11-10T14:25:39Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/4892 200 in 172ms"}
+{"ts": "2026-11-10T14:25:40Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (727ms)"}
+{"ts": "2026-11-10T14:25:55Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 68ms"}
+{"ts": "2026-11-10T14:25:55Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 94ms"}
+{"ts": "2026-11-10T14:25:59Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (766ms)"}
+{"ts": "2026-11-10T14:26:01Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 122ms"}
+{"ts": "2026-11-10T14:26:04Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:26:06Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 97ms"}
+{"ts": "2026-11-10T14:26:09Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/4800 200 in 73ms"}
+{"ts": "2026-11-10T14:26:12Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:26:21Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/7257 200 in 108ms"}
+{"ts": "2026-11-10T14:26:27Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 75ms"}
+{"ts": "2026-11-10T14:26:30Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:26:38Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 156ms"}
+{"ts": "2026-11-10T14:26:46Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 136ms"}
+{"ts": "2026-11-10T14:26:52Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/2095 200 in 100ms"}
+{"ts": "2026-11-10T14:27:06Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:27:11Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (879ms)"}
+{"ts": "2026-11-10T14:27:15Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:27:27Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:27:36Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (884ms)"}
+{"ts": "2026-11-10T14:27:37Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (514ms)"}
+{"ts": "2026-11-10T14:27:44Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 53ms"}
+{"ts": "2026-11-10T14:27:46Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/8685 200 in 119ms"}
+{"ts": "2026-11-10T14:27:48Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (581ms)"}
+{"ts": "2026-11-10T14:27:54Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 124ms"}
+{"ts": "2026-11-10T14:27:56Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/2716 200 in 22ms"}
+{"ts": "2026-11-10T14:28:06Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 180ms"}
+{"ts": "2026-11-10T14:28:13Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 133ms"}
+{"ts": "2026-11-10T14:28:18Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:28:31Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 95ms"}
+{"ts": "2026-11-10T14:28:31Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (672ms)"}
+{"ts": "2026-11-10T14:28:48Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (760ms)"}
+{"ts": "2026-11-10T14:28:53Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:28:55Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (689ms)"}
+{"ts": "2026-11-10T14:28:56Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (827ms)"}
+{"ts": "2026-11-10T14:28:57Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 165ms"}
+{"ts": "2026-11-10T14:29:03Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:29:08Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 20ms"}
+{"ts": "2026-11-10T14:29:08Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 64ms"}
+{"ts": "2026-11-10T14:29:15Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/9222 200 in 76ms"}
+{"ts": "2026-11-10T14:29:16Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (749ms)"}
+{"ts": "2026-11-10T14:29:18Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:29:24Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 107ms"}
+{"ts": "2026-11-10T14:29:33Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:29:33Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (650ms)"}
+{"ts": "2026-11-10T14:29:36Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 172ms"}
+{"ts": "2026-11-10T14:29:39Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:29:40Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:29:45Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/8265 200 in 131ms"}
+{"ts": "2026-11-10T14:29:48Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 78ms"}
+{"ts": "2026-11-10T14:29:51Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/6421 200 in 170ms"}
+{"ts": "2026-11-10T14:30:02Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/1404 200 in 79ms"}
+{"ts": "2026-11-10T14:30:04Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:30:12Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/4421 200 in 101ms"}
+{"ts": "2026-11-10T14:30:20Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/8852 200 in 31ms"}
+{"ts": "2026-11-10T14:30:27Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/3302 200 in 159ms"}
+{"ts": "2026-11-10T14:30:27Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/7782 200 in 91ms"}
+{"ts": "2026-11-10T14:30:33Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/7184 200 in 52ms"}
+{"ts": "2026-11-10T14:30:34Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/2917 200 in 122ms"}
+{"ts": "2026-11-10T14:30:43Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/5172 200 in 102ms"}
+{"ts": "2026-11-10T14:30:45Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:30:48Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 149ms"}
+{"ts": "2026-11-10T14:31:00Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 72ms"}
+{"ts": "2026-11-10T14:31:03Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (560ms)"}
+{"ts": "2026-11-10T14:31:04Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:31:06Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 67ms"}
+{"ts": "2026-11-10T14:31:11Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (633ms)"}
+{"ts": "2026-11-10T14:31:12Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 135ms"}
+{"ts": "2026-11-10T14:31:18Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/7889 200 in 56ms"}
+{"ts": "2026-11-10T14:31:30Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (740ms)"}
+{"ts": "2026-11-10T14:31:36Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 25ms"}
+{"ts": "2026-11-10T14:31:36Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:31:37Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:31:37Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 130ms"}
+{"ts": "2026-11-10T14:31:42Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 115ms"}
+{"ts": "2026-11-10T14:31:45Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:31:53Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/7007 200 in 40ms"}
+{"ts": "2026-11-10T14:32:01Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:32:06Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:32:07Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:32:11Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/7539 200 in 127ms"}
+{"ts": "2026-11-10T14:32:11Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:32:16Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 59ms"}
+{"ts": "2026-11-10T14:32:20Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:32:21Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:32:21Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:32:22Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:32:22Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:32:28Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/3573 200 in 102ms"}
+{"ts": "2026-11-10T14:32:30Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:32:31Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:32:32Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 39ms"}
+{"ts": "2026-11-10T14:32:33Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 99ms"}
+{"ts": "2026-11-10T14:32:34Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:32:51Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 172ms"}
+{"ts": "2026-11-10T14:32:52Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:32:52Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:32:53Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:32:53Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:32:59Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (759ms)"}
+{"ts": "2026-11-10T14:33:00Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/2066 200 in 77ms"}
+{"ts": "2026-11-10T14:33:00Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:33:01Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:33:02Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:33:06Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (578ms)"}
+{"ts": "2026-11-10T14:33:11Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/1013 200 in 160ms"}
+{"ts": "2026-11-10T14:33:22Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:33:28Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/5859 200 in 95ms"}
+{"ts": "2026-11-10T14:33:31Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:33:32Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:33:40Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 66ms"}
+{"ts": "2026-11-10T14:33:41Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:33:42Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:33:49Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (578ms)"}
+{"ts": "2026-11-10T14:33:49Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:33:50Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:33:51Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 79ms"}
+{"ts": "2026-11-10T14:33:52Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/6058 200 in 155ms"}
+{"ts": "2026-11-10T14:34:00Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (526ms)"}
+{"ts": "2026-11-10T14:34:03Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:34:07Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/2210 200 in 134ms"}
+{"ts": "2026-11-10T14:34:09Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:34:10Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:34:17Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:34:23Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:34:24Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:34:25Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:34:28Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (888ms)"}
+{"ts": "2026-11-10T14:34:30Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:34:31Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:34:34Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:34:36Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (859ms)"}
+{"ts": "2026-11-10T14:34:38Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:34:39Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:34:39Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:34:43Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:34:44Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:34:45Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:34:52Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/9586 200 in 97ms"}
+{"ts": "2026-11-10T14:34:53Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (641ms)"}
+{"ts": "2026-11-10T14:34:56Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (617ms)"}
+{"ts": "2026-11-10T14:35:00Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/5948 200 in 87ms"}
+{"ts": "2026-11-10T14:35:01Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:35:02Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:35:08Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (538ms)"}
+{"ts": "2026-11-10T14:35:11Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 76ms"}
+{"ts": "2026-11-10T14:35:11Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:35:12Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:35:19Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 29ms"}
+{"ts": "2026-11-10T14:35:20Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (788ms)"}
+{"ts": "2026-11-10T14:35:23Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 31ms"}
+{"ts": "2026-11-10T14:35:24Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (742ms)"}
+{"ts": "2026-11-10T14:35:34Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:35:35Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:35:41Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (585ms)"}
+{"ts": "2026-11-10T14:35:44Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/3084 200 in 102ms"}
+{"ts": "2026-11-10T14:35:49Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:35:57Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/5411 200 in 170ms"}
+{"ts": "2026-11-10T14:36:01Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/8148 200 in 121ms"}
+{"ts": "2026-11-10T14:36:03Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/9992 200 in 65ms"}
+{"ts": "2026-11-10T14:36:05Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 90ms"}
+{"ts": "2026-11-10T14:36:05Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/1251 200 in 47ms"}
+{"ts": "2026-11-10T14:36:07Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:36:08Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:36:17Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:36:18Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:36:29Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:36:30Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:36:37Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 44ms"}
+{"ts": "2026-11-10T14:36:38Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/7992 200 in 174ms"}
+{"ts": "2026-11-10T14:36:40Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/9002 200 in 61ms"}
+{"ts": "2026-11-10T14:36:42Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (525ms)"}
+{"ts": "2026-11-10T14:36:50Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:36:51Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:36:56Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:36:57Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:36:57Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:36:58Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:37:02Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (891ms)"}
+{"ts": "2026-11-10T14:37:07Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/3414 200 in 40ms"}
+{"ts": "2026-11-10T14:37:07Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:37:08Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:37:08Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:37:10Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/6598 200 in 148ms"}
+{"ts": "2026-11-10T14:37:10Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/9800 200 in 86ms"}
+{"ts": "2026-11-10T14:37:13Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:37:14Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:37:14Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:37:19Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:37:28Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (690ms)"}
+{"ts": "2026-11-10T14:37:33Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/7227 200 in 51ms"}
+{"ts": "2026-11-10T14:37:34Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/7323 200 in 140ms"}
+{"ts": "2026-11-10T14:37:38Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:37:39Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:37:40Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:37:40Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:37:41Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/2383 200 in 158ms"}
+{"ts": "2026-11-10T14:37:41Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:37:41Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:37:46Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 29ms"}
+{"ts": "2026-11-10T14:37:46Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/4565 200 in 25ms"}
+{"ts": "2026-11-10T14:37:52Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:37:53Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:37:53Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:37:54Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:38:00Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/8921 200 in 115ms"}
+{"ts": "2026-11-10T14:38:03Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/1671 200 in 26ms"}
+{"ts": "2026-11-10T14:38:11Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:38:12Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:38:13Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 151ms"}
+{"ts": "2026-11-10T14:38:14Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (710ms)"}
+{"ts": "2026-11-10T14:38:21Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:38:22Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:38:25Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:38:26Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:38:29Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/8154 200 in 87ms"}
+{"ts": "2026-11-10T14:38:31Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:38:32Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:38:38Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:38:39Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:38:39Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:38:45Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:38:55Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:38:56Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 67ms"}
+{"ts": "2026-11-10T14:38:56Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:38:57Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:39:04Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/1050 200 in 115ms"}
+{"ts": "2026-11-10T14:39:05Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (556ms)"}
+{"ts": "2026-11-10T14:39:07Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:39:08Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:39:11Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:39:11Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:39:12Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:39:12Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:39:13Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (759ms)"}
+{"ts": "2026-11-10T14:39:17Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:39:25Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 160ms"}
+{"ts": "2026-11-10T14:39:37Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 29ms"}
+{"ts": "2026-11-10T14:39:40Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:39:41Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/4071 200 in 32ms"}
+{"ts": "2026-11-10T14:39:41Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:39:46Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/8058 200 in 69ms"}
+{"ts": "2026-11-10T14:39:49Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:39:52Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 56ms"}
+{"ts": "2026-11-10T14:39:52Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (638ms)"}
+{"ts": "2026-11-10T14:39:53Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 161ms"}
+{"ts": "2026-11-10T14:39:58Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:39:59Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:40:00Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:40:01Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:40:04Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:40:05Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:40:23Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:40:23Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:40:24Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:40:30Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:40:31Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:40:32Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:40:41Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:40:42Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:40:44Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/3289 200 in 29ms"}
+{"ts": "2026-11-10T14:40:44Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:40:45Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:40:47Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/5216 200 in 61ms"}
+{"ts": "2026-11-10T14:40:52Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/6243 200 in 42ms"}
+{"ts": "2026-11-10T14:40:56Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (894ms)"}
+{"ts": "2026-11-10T14:40:58Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:40:59Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:41:04Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:41:05Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:41:06Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/7732 200 in 98ms"}
+{"ts": "2026-11-10T14:41:06Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 169ms"}
+{"ts": "2026-11-10T14:41:08Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 153ms"}
+{"ts": "2026-11-10T14:41:14Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/4660 200 in 77ms"}
+{"ts": "2026-11-10T14:41:25Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 76ms"}
+{"ts": "2026-11-10T14:41:27Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (556ms)"}
+{"ts": "2026-11-10T14:41:28Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 55ms"}
+{"ts": "2026-11-10T14:41:29Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:41:30Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/6699 200 in 77ms"}
+{"ts": "2026-11-10T14:41:30Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:41:34Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 160ms"}
+{"ts": "2026-11-10T14:41:46Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:41:47Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:41:48Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/7612 200 in 152ms"}
+{"ts": "2026-11-10T14:41:49Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/6368 200 in 148ms"}
+{"ts": "2026-11-10T14:41:51Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:41:52Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:41:54Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/7789 200 in 152ms"}
+{"ts": "2026-11-10T14:42:05Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/5876 200 in 138ms"}
+{"ts": "2026-11-10T14:42:05Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (732ms)"}
+{"ts": "2026-11-10T14:42:07Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/4163 200 in 150ms"}
+{"ts": "2026-11-10T14:42:12Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:42:13Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:42:16Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:42:18Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:42:20Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 29ms"}
+{"ts": "2026-11-10T14:42:22Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:42:23Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:42:33Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/7510 200 in 83ms"}
+{"ts": "2026-11-10T14:42:35Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:42:36Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (769ms)"}
+{"ts": "2026-11-10T14:42:36Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:42:44Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/6674 200 in 165ms"}
+{"ts": "2026-11-10T14:42:49Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 68ms"}
+{"ts": "2026-11-10T14:42:50Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:42:51Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:42:57Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:42:58Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:43:06Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (866ms)"}
+{"ts": "2026-11-10T14:43:15Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/5642 200 in 78ms"}
+{"ts": "2026-11-10T14:43:16Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:43:24Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:43:25Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:43:26Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (502ms)"}
+{"ts": "2026-11-10T14:43:28Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (894ms)"}
+{"ts": "2026-11-10T14:43:34Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:43:34Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 29ms"}
+{"ts": "2026-11-10T14:43:41Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:43:42Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 143ms"}
+{"ts": "2026-11-10T14:43:47Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (632ms)"}
+{"ts": "2026-11-10T14:43:47Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (695ms)"}
+{"ts": "2026-11-10T14:43:47Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:43:48Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:43:49Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 24ms"}
+{"ts": "2026-11-10T14:43:52Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (628ms)"}
+{"ts": "2026-11-10T14:43:56Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:43:56Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:43:58Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:43:59Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:44:05Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:44:10Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:44:11Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:44:11Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:44:11Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:44:12Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:44:15Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:44:16Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:44:25Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:44:26Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:44:27Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 179ms"}
+{"ts": "2026-11-10T14:44:30Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 153ms"}
+{"ts": "2026-11-10T14:44:31Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:44:33Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/9257 200 in 106ms"}
+{"ts": "2026-11-10T14:44:35Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (591ms)"}
+{"ts": "2026-11-10T14:44:41Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:44:42Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:44:45Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 28ms"}
+{"ts": "2026-11-10T14:44:46Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/8795 200 in 165ms"}
+{"ts": "2026-11-10T14:44:47Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 163ms"}
+{"ts": "2026-11-10T14:44:52Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:44:52Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:44:53Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:44:53Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:44:55Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (709ms)"}
+{"ts": "2026-11-10T14:45:05Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:45:07Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:45:08Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 159ms"}
+{"ts": "2026-11-10T14:45:08Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:45:11Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 156ms"}
+{"ts": "2026-11-10T14:45:15Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (750ms)"}
+{"ts": "2026-11-10T14:45:15Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (720ms)"}
+{"ts": "2026-11-10T14:45:17Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/5574 200 in 173ms"}
+{"ts": "2026-11-10T14:45:21Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:45:22Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:45:24Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (503ms)"}
+{"ts": "2026-11-10T14:45:24Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 32ms"}
+{"ts": "2026-11-10T14:45:30Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:45:30Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (853ms)"}
+{"ts": "2026-11-10T14:45:34Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:45:38Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 114ms"}
+{"ts": "2026-11-10T14:45:51Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:45:52Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:46:00Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:46:01Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:46:06Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 52ms"}
+{"ts": "2026-11-10T14:46:17Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (714ms)"}
+{"ts": "2026-11-10T14:46:21Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:46:30Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 56ms"}
+{"ts": "2026-11-10T14:46:34Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/9594 200 in 128ms"}
+{"ts": "2026-11-10T14:46:39Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:46:41Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (878ms)"}
+{"ts": "2026-11-10T14:46:44Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (691ms)"}
+{"ts": "2026-11-10T14:46:46Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:46:47Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:46:52Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (526ms)"}
+{"ts": "2026-11-10T14:46:52Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:46:53Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:46:54Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (842ms)"}
+{"ts": "2026-11-10T14:46:55Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 143ms"}
+{"ts": "2026-11-10T14:46:57Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/1060 200 in 28ms"}
+{"ts": "2026-11-10T14:47:02Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 23ms"}
+{"ts": "2026-11-10T14:47:04Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:47:05Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:47:13Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:47:13Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 90ms"}
+{"ts": "2026-11-10T14:47:15Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:47:16Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:47:17Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:47:19Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:47:20Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:47:33Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:47:34Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:47:35Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:47:41Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:47:47Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:47:48Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (802ms)"}
+{"ts": "2026-11-10T14:47:48Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:47:57Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 45ms"}
+{"ts": "2026-11-10T14:48:05Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/7612 200 in 70ms"}
+{"ts": "2026-11-10T14:48:05Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 65ms"}
+{"ts": "2026-11-10T14:48:07Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/6267 200 in 61ms"}
+{"ts": "2026-11-10T14:48:12Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:48:13Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:48:16Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:48:17Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:48:17Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:48:18Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:48:35Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 41ms"}
+{"ts": "2026-11-10T14:48:37Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:48:38Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (648ms)"}
+{"ts": "2026-11-10T14:48:38Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:48:38Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:48:39Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:48:40Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:48:40Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:48:41Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:48:53Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/9313 200 in 41ms"}
+{"ts": "2026-11-10T14:48:56Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:49:00Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (791ms)"}
+{"ts": "2026-11-10T14:49:04Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:49:05Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 84ms"}
+{"ts": "2026-11-10T14:49:10Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 84ms"}
+{"ts": "2026-11-10T14:49:14Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 103ms"}
+{"ts": "2026-11-10T14:49:17Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 24ms"}
+{"ts": "2026-11-10T14:49:17Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:49:18Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:49:19Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:49:20Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:49:25Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:49:26Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:49:26Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:49:31Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:49:33Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/1902 200 in 87ms"}
+{"ts": "2026-11-10T14:49:35Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/7171 200 in 82ms"}
+{"ts": "2026-11-10T14:49:36Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 70ms"}
+{"ts": "2026-11-10T14:49:38Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:49:39Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:49:40Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (755ms)"}
+{"ts": "2026-11-10T14:49:41Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (774ms)"}
+{"ts": "2026-11-10T14:49:53Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 98ms"}
+{"ts": "2026-11-10T14:49:57Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 161ms"}
+{"ts": "2026-11-10T14:50:01Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:50:06Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:50:10Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:50:11Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:50:12Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:50:17Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:50:18Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:50:19Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/6994 200 in 51ms"}
+{"ts": "2026-11-10T14:50:26Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/7358 200 in 122ms"}
+{"ts": "2026-11-10T14:50:27Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:50:28Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:50:28Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:50:29Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:50:29Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:50:30Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:50:38Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 26ms"}
+{"ts": "2026-11-10T14:50:45Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:50:46Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:50:47Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:50:58Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/4300 200 in 166ms"}
+{"ts": "2026-11-10T14:50:58Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/7151 200 in 101ms"}
+{"ts": "2026-11-10T14:51:01Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 65ms"}
+{"ts": "2026-11-10T14:51:02Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:51:03Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:51:07Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 83ms"}
+{"ts": "2026-11-10T14:51:08Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:51:09Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:51:14Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:51:15Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/9511 200 in 40ms"}
+{"ts": "2026-11-10T14:51:21Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:51:22Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:51:29Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/9907 200 in 33ms"}
+{"ts": "2026-11-10T14:51:38Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/4632 200 in 99ms"}
+{"ts": "2026-11-10T14:51:38Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:51:39Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:51:43Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:51:44Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:51:47Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/9497 200 in 124ms"}
+{"ts": "2026-11-10T14:51:53Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:51:54Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:51:56Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:51:57Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:51:58Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 157ms"}
+{"ts": "2026-11-10T14:52:00Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 100ms"}
+{"ts": "2026-11-10T14:52:07Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:52:08Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:52:11Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:52:12Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (796ms)"}
+{"ts": "2026-11-10T14:52:12Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:52:20Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:52:21Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:52:29Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/2565 200 in 53ms"}
+{"ts": "2026-11-10T14:52:33Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/8386 200 in 171ms"}
+{"ts": "2026-11-10T14:52:35Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:52:36Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 137ms"}
+{"ts": "2026-11-10T14:52:36Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:52:41Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/2789 200 in 169ms"}
+{"ts": "2026-11-10T14:52:48Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (827ms)"}
+{"ts": "2026-11-10T14:52:51Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 178ms"}
+{"ts": "2026-11-10T14:52:53Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 174ms"}
+{"ts": "2026-11-10T14:52:57Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 116ms"}
+{"ts": "2026-11-10T14:52:58Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 48ms"}
+{"ts": "2026-11-10T14:53:04Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/8862 200 in 71ms"}
+{"ts": "2026-11-10T14:53:09Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/2747 200 in 123ms"}
+{"ts": "2026-11-10T14:53:09Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:53:10Z", "service": "orders-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:53:10Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:53:15Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 174ms"}
+{"ts": "2026-11-10T14:53:16Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (731ms)"}
+{"ts": "2026-11-10T14:53:19Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (839ms)"}
+{"ts": "2026-11-10T14:53:24Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/2504 200 in 109ms"}
+{"ts": "2026-11-10T14:53:24Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/2076 200 in 96ms"}
+{"ts": "2026-11-10T14:53:32Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (850ms)"}
+{"ts": "2026-11-10T14:53:41Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:53:42Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:53:43Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (710ms)"}
+{"ts": "2026-11-10T14:53:43Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:53:47Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:53:49Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 61ms"}
+{"ts": "2026-11-10T14:53:49Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 143ms"}
+{"ts": "2026-11-10T14:53:51Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:53:51Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:53:52Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:53:54Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:53:55Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:54:03Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:54:04Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:54:07Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 176ms"}
+{"ts": "2026-11-10T14:54:10Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (730ms)"}
+{"ts": "2026-11-10T14:54:11Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:54:12Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:54:33Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/4921 200 in 144ms"}
+{"ts": "2026-11-10T14:54:33Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:54:34Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:54:43Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:54:43Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:54:44Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:54:44Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:54:46Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 140ms"}
+{"ts": "2026-11-10T14:54:52Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:54:55Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/5810 200 in 79ms"}
+{"ts": "2026-11-10T14:54:57Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 146ms"}
+{"ts": "2026-11-10T14:54:58Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (568ms)"}
+{"ts": "2026-11-10T14:54:58Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:54:59Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 179ms"}
+{"ts": "2026-11-10T14:54:59Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:55:00Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:55:01Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:55:13Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 137ms"}
+{"ts": "2026-11-10T14:55:18Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/2902 200 in 49ms"}
+{"ts": "2026-11-10T14:55:19Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:55:21Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:55:22Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:55:27Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 137ms"}
+{"ts": "2026-11-10T14:55:32Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (831ms)"}
+{"ts": "2026-11-10T14:55:40Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 73ms"}
+{"ts": "2026-11-10T14:55:42Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 26ms"}
+{"ts": "2026-11-10T14:55:43Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/4987 200 in 163ms"}
+{"ts": "2026-11-10T14:55:43Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:55:44Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:55:50Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 140ms"}
+{"ts": "2026-11-10T14:55:50Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:55:51Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:55:54Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:55:55Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:55:56Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:56:01Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 26ms"}
+{"ts": "2026-11-10T14:56:01Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 98ms"}
+{"ts": "2026-11-10T14:56:06Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:56:07Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (803ms)"}
+{"ts": "2026-11-10T14:56:07Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:56:12Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 160ms"}
+{"ts": "2026-11-10T14:56:12Z", "service": "gateway", "level": "WARN", "msg": "slow query on products (598ms)"}
+{"ts": "2026-11-10T14:56:14Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/1099 200 in 46ms"}
+{"ts": "2026-11-10T14:56:25Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:56:26Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:56:29Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 149ms"}
+{"ts": "2026-11-10T14:56:32Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/5036 200 in 38ms"}
+{"ts": "2026-11-10T14:56:34Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/2488 200 in 35ms"}
+{"ts": "2026-11-10T14:56:37Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:56:38Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:56:41Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:56:42Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:56:43Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:56:43Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:56:44Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:56:44Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:56:46Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:56:47Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/8742 200 in 174ms"}
+{"ts": "2026-11-10T14:56:53Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/2868 200 in 145ms"}
+{"ts": "2026-11-10T14:56:53Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:56:54Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:56:57Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 165ms"}
+{"ts": "2026-11-10T14:57:01Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (781ms)"}
+{"ts": "2026-11-10T14:57:03Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:57:04Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:57:04Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:57:05Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:57:11Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (536ms)"}
+{"ts": "2026-11-10T14:57:13Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/6331 200 in 32ms"}
+{"ts": "2026-11-10T14:57:16Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:57:17Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:57:18Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:57:27Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (732ms)"}
+{"ts": "2026-11-10T14:57:28Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/2054 200 in 134ms"}
+{"ts": "2026-11-10T14:57:28Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:57:29Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 122ms"}
+{"ts": "2026-11-10T14:57:29Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:57:32Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:57:32Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:57:33Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:57:33Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:57:41Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:57:42Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:57:56Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 127ms"}
+{"ts": "2026-11-10T14:58:04Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/1524 200 in 93ms"}
+{"ts": "2026-11-10T14:58:17Z", "service": "orders-api", "level": "INFO", "msg": "POST /orders 201 in 43ms"}
+{"ts": "2026-11-10T14:58:22Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/7298 200 in 26ms"}
+{"ts": "2026-11-10T14:58:22Z", "service": "payments-api", "level": "WARN", "msg": "slow query on products (605ms)"}
+{"ts": "2026-11-10T14:58:26Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:58:27Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:58:27Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:58:28Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:58:29Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/3980 200 in 101ms"}
+{"ts": "2026-11-10T14:58:29Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:58:30Z", "service": "payments-api", "level": "INFO", "msg": "POST /orders 201 in 31ms"}
+{"ts": "2026-11-10T14:58:31Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:58:36Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:58:37Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:58:37Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:58:40Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:58:43Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 107ms"}
+{"ts": "2026-11-10T14:58:46Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/5276 200 in 55ms"}
+{"ts": "2026-11-10T14:58:47Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:58:51Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/3657 200 in 58ms"}
+{"ts": "2026-11-10T14:58:54Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:58:55Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:59:02Z", "service": "gateway", "level": "INFO", "msg": "GET /orders/8932 200 in 98ms"}
+{"ts": "2026-11-10T14:59:02Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:59:03Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:59:09Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:59:12Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:59:13Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:59:16Z", "service": "gateway", "level": "INFO", "msg": "POST /orders 201 in 162ms"}
+{"ts": "2026-11-10T14:59:18Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:59:19Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:59:25Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:59:36Z", "service": "orders-api", "level": "WARN", "msg": "slow query on products (529ms)"}
+{"ts": "2026-11-10T14:59:39Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:59:40Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/9609 200 in 91ms"}
+{"ts": "2026-11-10T14:59:40Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:59:42Z", "service": "payments-api", "level": "INFO", "msg": "GET /orders/9783 200 in 62ms"}
+{"ts": "2026-11-10T14:59:45Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/2431 200 in 27ms"}
+{"ts": "2026-11-10T14:59:50Z", "service": "orders-api", "level": "INFO", "msg": "GET /orders/6218 200 in 40ms"}
+{"ts": "2026-11-10T14:59:51Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:59:52Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:59:55Z", "service": "gateway", "level": "INFO", "msg": "health check ok"}
+{"ts": "2026-11-10T14:59:55Z", "service": "payments-api", "level": "ERROR", "msg": "provider api.paycorp.example returned 503 Service Unavailable"}
+{"ts": "2026-11-10T14:59:56Z", "service": "gateway", "level": "ERROR", "msg": "upstream payments-api returned 502"}
+{"ts": "2026-11-10T14:59:58Z", "service": "payments-api", "level": "INFO", "msg": "health check ok"}

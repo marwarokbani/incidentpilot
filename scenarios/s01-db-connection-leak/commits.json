@@ -1,0 +1,23 @@
+[
+  {
+    "sha": "9f8e7d6",
+    "service": "payments-api",
+    "deployed_at": "2026-11-10T14:05:00Z",
+    "message": "feat: add retry on payment provider timeout",
+    "diff": "+ @retry(times=3, backoff=0.5)\n  def charge(order): ..."
+  },
+  {
+    "sha": "a1b2c3d",
+    "service": "orders-api",
+    "deployed_at": "2026-11-10T14:20:00Z",
+    "message": "perf: reuse DB session across handlers",
+    "diff": "  def get_order(order_id):\n      session = pool.acquire()\n-     try:\n-         return session.get(Order, order_id)\n-     finally:\n-         session.close()\n+     return session.get(Order, order_id)  # session kept for reuse"
+  },
+  {
+    "sha": "4c5d6e7",
+    "service": "payments-api",
+    "deployed_at": "2026-11-10T14:30:00Z",
+    "message": "chore: bump pydantic 2.9.1 -> 2.9.2",
+    "diff": "- pydantic==2.9.1\n+ pydantic==2.9.2"
+  }
+]

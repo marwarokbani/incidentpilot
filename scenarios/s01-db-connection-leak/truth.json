@@ -1,0 +1,11 @@
+{
+  "id": "s01-db-connection-leak",
+  "category": "connection_leak",
+  "culprit_commit": "a1b2c3d",
+  "root_cause": "Le commit a1b2c3d supprime session.close() dans orders-api : chaque requête garde sa connexion, le pool de 10 se remplit en 15 minutes, puis les requêtes expirent.",
+  "red_herrings": [
+    "commit 4c5d6e7, plus récent mais sur payments-api",
+    "WARN slow query, déjà présents avant l'incident",
+    "erreurs du gateway, qui ne font que propager celles d'orders-api"
+  ]
+}
